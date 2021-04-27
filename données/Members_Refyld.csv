@@ -1,0 +1,1189 @@
+,Prénom ,Nom ,Sexe,Adresse ,Complement Adresse,Code postal ,Ville ,Région ,Pays ,Nom d'utilisateur,Identifiant de la contrepartie,Titre de la contrepartie,Quantité,Montant unitaire total
+0,romain,romain,H,10 place franklin,0,68100,Mulhouse,Grand-Est,FR,romain-fontanel,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1,Élodie,Ramel,F,23 Avenue Albert Laurens,0,34230,Saint-Pargoire,Occitanie,FR,elodie-ramel,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+2,Amel,Ahmedou,F,5 Allée Alexandre Vialatte,c/o Labadie,75013,Paris 13e Arrondissement,Île-de-France,FR,melacafez,656196.0,ADHÉSION À VIE - Duo,1.0,99.0
+3,Elina,Le Gourvellec,F,16 Avenue de l'Alcyon,0,44300,Nantes,Pays-de-la-Loire,FR,elinalegourvellec,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+4,PHILIPPE,BIGOT,H,8 Impasse du Chemin de Gesnes,0,61000,Saint-Germain-du-Corbéis,Normandie,FR,phmabigot,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+5,Maïder,Saint-Jean,F,265 Rue de la Bastide,0,40320,Pimbo,Nouvelle-Aquitaine,FR,mayii,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+6,Vincent,MANZINI,H,28 avenue maréchal foch,0,93360,Neuilly Plaisance,Île-de-France,FR,vincent-manzini,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+7,Charlotte,Juhen,F,11 Rue Valentin Haüy,0,75015,Paris 15e Arrondissement,Île-de-France,FR,c-juhen,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+8,Jean-Christophe,Harel,H,3 Boulevard du Lycée,0,74000,Annecy,Auvergne-Rhône-Alpes,FR,harel-jean-christophe,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+9,Selvanie,RUNGIAH,F,9 Domaine des Hocquettes,0,92150,Suresnes,Île-de-France,FR,selvanie-rungiah,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+10,Alexandre,Salmon,H,4 Rue de la Montagne,0,51170,Faverolles-et-Coëmy,Grand-Est,FR,alexandresalmon7,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+11,Elisabeth,Noll,F,5 Route de Bayeux,0,14960,Saint-Côme-de-Fresné,Normandie,FR,el-noll,655971.0,Adhésion à vie - Tarif réduit,2.0,78.0
+12,Laetitia,Prasit,F,74 Bis Avenue Paul Doumer,0,92500,Rueil-Malmaison,,FR,tititenten,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+13,Emma,Perinet,F,10 Rue Émile Eudes,0,94140,Alfortville,Île-de-France,FR,lafee-4,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+14,Sandrine,PEPIN,F,6 impasse du Canal,0,31270,Cugnaux,,FR,sandy-pepin,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+15,Patricia,Moissonnier-Cuney,F,23 rue du grand Villard,0,39260,Villards d'Héria,,FR,fab-166,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+16,Julien,Beneteau,H,17 Rue d'Arsonval,0,44000,Nantes,Pays-de-la-Loire,FR,julien-beneteau,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+17,Cyril,Amiot,H,352 Rue Artzamendi,Quartier du lac,64310,Saint-Pée-sur-Nivelle,Nouvelle-Aquitaine,FR,cyril-amiot,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+18,Jérémy,Lévêque,H,46 Rue de la Butte aux Cailles,0,75013,Paris 13e Arrondissement,Île-de-France,FR,leeveque-jeremy,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+19,Marc,Alhachem,H,14 Villa Laugier,0,75017,Paris 17e Arrondissement,Île-de-France,FR,supper_marc,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+20,Hélène,PERDEREAU,F,Lieu dit le champ de devant,0,72250,Parigné l'évêque,,FR,hanounyosh,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+21,sandrine,baldassi,F,89 Rue Caulaincourt,0,75018,Paris 18e Arrondissement,Île-de-France,FR,sandrinebaldassi,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+22,Dorothée,Masson,F,25 Rue Jean Monnet,0,35760,Saint-Grégoire,Bretagne,FR,domasson,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+23,Aurore,Delobre,F,7 Rue Neuve des Boulets,0,75011,Paris 11e Arrondissement,Île-de-France,FR,aurore-delobre,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+24,Jessica,Berthet Bondet,F,84 Rue des Savoies,0,01460,Montréal-la-Cluse,Auvergne-Rhône-Alpes,FR,jessicaberthetbondet,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+25,Dominique,Bourdiau,F,15 Rue Albert Camus,0,63370,Lempdes,Auvergne-Rhône-Alpes,FR,doudous_et_ptits_pas,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+26,Eve,Petremann,F,2 Rue des Serpolets,0,34790,Grabels,Occitanie,FR,petremanneve,655971.0,Adhésion à vie - Tarif réduit,2.0,78.0
+27,Sandie,Amiot,F,"2, La Gouère",0,85130,Saint-Martin-des-Tilleuls,Pays-de-la-Loire,FR,sandie-amiot,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+28,Léonie,Grenier,F,1022 Rue de la République,0,07430,Davézieux,Auvergne-Rhône-Alpes,FR,arumfleursdavezieux,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+29,Romain,SAUVETRE,H,4 Rue du Général Morand,Apt 2134,93160,Noisy le Grand,France,FR,romain_sauvetre,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+30,Apolline,Guillemin,F,5 Rue des Fretes,0,74940,Annecy,Auvergne-Rhône-Alpes,FR,apollineguillemin,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+31,HELENE,ARGAUD,F,11 Rue Guepet,0,71100,Chalon-sur-Saône,Bourgogne-Franche-Comté,FR,phil-30,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+32,Regine,Viotti,F,1948 Chemin de la Grau,0,06670,Saint-Blaise,Provence-Alpes-Côte d'Azur,FR,regine-viotti,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+33,sophie,delaunay,F,23 Rue de Carcassonne,0,78650,Beynes,Île-de-France,FR,soben-0,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+34,Patrizia,Buffagni,F,Rue Paul Bossu 22,0,1150,Woluwe-Saint-Pierre,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest,BE,patrizia-buffagni,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+35,Darlene,DE AZEVEDO,F,105 Rue de Lorraine,0,93290,Tremblay-en-France,Île-de-France,FR,deazevedo-darlene,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+36,benedicte,PARIS,F,40 Avenue Georges Clemenceau,0,14150,Ouistreham,Normandie,FR,morelparisbenedicte,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+37,florence,thellier,F,Rue des Vollandes 12,0,1207,Genève,Genève,CH,flo-thellier,655971.0,Adhésion à vie - Tarif réduit,2.0,78.0
+38,Charline,Dabrio,F,58 Rue Paul Courteault,0,33000,Bordeaux,Nouvelle-Aquitaine,FR,charline-dabrio,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+39,Véronique,Thiebaut,F,Route du Pont de Dammarie ( chemin du canal),0,55000,SAVONNIERES DEVANT BAR,,FR,veronique-dandeu,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+40,Kevin,BERNARD,H,156 ter Rue d'Aulnay,0,92290,Châtenay-Malabry,Île-de-France,FR,kevin-bernard-iutcachan,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+41,Carole,Decome,F,8 Rue des Étains,0,07800,Saint-Georges-les-Bains,Auvergne-Rhône-Alpes,FR,carole-decome,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+42,Joséphine,Duforest,F,212 rue de Grenelle,0,75007,Paris,Île-de-France,FR,josephine-duforest,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+43,Julie,LE GLAS,F,6 Rue des Girolles,0,40260,Linxe,Nouvelle-Aquitaine,FR,leglasj,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+44,Monique,Martin,F,1220 Chemin d'Erramundegia,0,64310,Ascain,Nouvelle-Aquitaine,FR,m-c-martin-0,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+45,Julie,CELESTIN,F,10 rue de Fenouillet Apt A501,0,31200,Toulouse,,FR,juliecelestin97436,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+46,SABINE,POUMEYROL,F,MEYMAC 15 ROUTE DU COUDERC,0,15800,POLMINHAC,,FR,poumeyrol-sabine,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+47,Emmanuelle,Mayer,F,11 Rue de la République,0,87120,Eymoutiers,Nouvelle-Aquitaine,FR,emmanuelle_may,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+48,Amandine,djozikian,F,90 Cours d'Ornano,0,33700,Mérignac,Nouvelle-Aquitaine,FR,brigittelarbre,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+49,Denis,BUAN,H,8 chemin de la rouairie,0,49070,BEAUCOUZE,,FR,captainchfr,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+50,Gauthier,Combes,H,34 rue d'Hauteville BP 28,0,75010,Paris,France,FR,gauthier-combes,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+51,Anne,CARDIN,F,4 Rue des Rigottières,0,85340,Olonne-sur-Mer,Pays-de-la-Loire,FR,anne-gabert,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+52,Sid-Ahmed,Mesloub,H,77 avenue de la République,0,75011,Paris,,FR,sidmsl,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+53,Penélope,Breugnon,F,14 Passage d'Enfer,0,75014,Paris 14e Arrondissement,Île-de-France,FR,penelopebreugnon,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+54,Julien,Vedel,H,46 l Rue du Docteur Lebled,0,37210,Rochecorbon,Centre-Val de Loire,FR,julienvedel,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+55,Marie-Christine,Barthoulot-Klein,F,5 Rue Jacques Prévert,0,25300,Pontarlier,Bourgogne-Franche-Comté,FR,mc-barthoulot,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+56,Marion,Imbert-Pavageau,F,27 Rue Mariotte,0,37100,Tours,Centre-Val de Loire,FR,am-pavageau,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+57,Éléonore,Dumas,F,20 rue du noyer,0,67240, BISCHWILLER,,FR,onefroggy,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+58,Audrey,Idir Delcasso,F,12 avenue Châteaubriand,Villa lilyvette,06100,Nice,,FR,mrs_adel_i,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+59,Gaëlle,Vilcourt,F,1 Rue du Caribou,0,35400,Saint-Malo,Bretagne,FR,gaellevilcourt,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+60,NATHALIE,SALINA,F,8 IMPASSE DES LILAS,0,26120,MONTVENDRE,,FR,nathalie-salina,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+61,Anne-Sophie,Guerin,F,20 Rue Paul Bert,5ème droite droite,75011,Paris 11e Arrondissement,Île-de-France,FR,annesophie-guerin,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+62,Veronique,BODIVIT,F,9 Rue du Roc'H Tredudon,0,29000,Quimper,Bretagne,FR,veronique-bodivit,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+63,Cendrine,SOULIER GIRAUDON,F,144 Chemin du Riou,La maison blanche,06140,Vence,Provence-Alpes-Côte d'Azur,FR,drinouchka72,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+64,Valérie,WIATROWSKI,F,10 Rue des Meuniers,0,60440,Chèvreville,Hauts-de-France,FR,valeriewia,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+65,Anabelle,GONZALEZ FRANCO,F,1 Impasse Jolie Môme,0,31320,Castanet-Tolosan,Occitanie,FR,calamityana,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+66,Emmanuel,ROSSIGNOL,F,25 Rue du Bourg,0,37510,Saint-Genouph,Centre-Val de Loire,FR,emmanuel-rossignol,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+67,Camille,Herbert,F,436 Cours Coquets,0,35133,La Selle-en-Luitré,Bretagne,FR,camilleherbert,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+68,Sarah,Beguinot,F,110 rue de la faisanderie,0,75116,Paris,,FR,sarahbeguinot,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+69,Sebastien,Robin,H,5 Impasse des Echalières,0,38113,Veurey-Voroize,Auvergne-Rhône-Alpes,FR,sebrobin-0,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+70,Pierre,GABERT,H,8 Rue de Lahire,Bâtiment B,45000,Orléans,Centre-Val de Loire,FR,pierre-gabert,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+71,Emma,Boidron,F,165 Chemin des Bernets,0,74320,Sevrier,Auvergne-Rhône-Alpes,FR,emmaboidron,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+72,Manuella,Séchet,F,4 Rue des Primevères,0,79200,Lageon,Nouvelle-Aquitaine,FR,sechetmanuella,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+73,valérie,valérie cure-dobrin,F,la perelle,0,14710,colombières,,FR,damesister,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+74,Béatrice,Pedtel,F,1 l Rue du Caribou,0,35400,Saint-Malo,Bretagne,FR,beatrice-pestel,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+75,Marine,Yrles,F,1374 avenue du Père Soulas,0,34090,Montpellier,,FR,marine-toix,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+76,Claire,PEYRUSAUBES,F,18 Route de l'Étang Saint-Denis,Bâtiment B,92370,Chaville,Île-de-France,FR,clairedanielou,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+77,Martine,Tournadre,F,11 Route de la Vigne,0,15240,Saignes,Auvergne-Rhône-Alpes,FR,martine-tournadre,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+78,Laetitia,BRESSON,F,39 Place de l'Église,0,39570,Courbouzon,Bourgogne-Franche-Comté,FR,laetitialemenestrel,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+79,Safia,Amrani,F,17 rue Vandellant,0,49100,Angers,,FR,saflm,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+80,Audrey,Defrocourt,F,3 ter rue Gustave Cotteau,0,89000,Auxerre,,FR,sylviegoirand,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+81,Ophelie,Remy,F,8 Rue du 8 Mai,0,54520,Laxou,Grand-Est,FR,ophelie-remy,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+82,Caroline,Mabit,F,103 Rue Julien Lacroix,0,75020,Paris 20e Arrondissement,Île-de-France,FR,caroline-mabit,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+83,Christine,Mabit,F,3 impasse des Hauts du ruisseau,0,31570,Lanta,,FR,caroline-mabit,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+84,Christine,Mabit,F,3 impasse des Hauts du ruisseau,0,31570,Lanta,,FR,caroline-mabit,,Don,1.0,1.0
+85,Catherine,AUSSEIL GUILLEMAIN,F,23 bis Rue de Maguelone,SCP DORIA AVOCATS,34000,Montpellier,Occitanie,FR,catherine-ausseil,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+86,Marion,Padilla,F,16 Rue de Malte,0,21110,Magny-sur-Tille,Bourgogne-Franche-Comté,FR,marion-legrand21,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+87,Nathalie,PHILIPPE,F,46 Avenue des Fontenelles,0,35400,Saint Malo,,FR,philibri4,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+88,Daniel,Silva,H,7 b Rue des Châtaigniers,0,63830,Durtol,Auvergne-Rhône-Alpes,FR,daniel-silva-perso,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+89,Isabelle,Lesueur,F,10 bis Rue du Vieux Puits,0,78980,Saint-Illiers-le-Bois,Île-de-France,FR,isaludo78,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+90,estefania,aguirre,F,5 Chemin Campaina,0,64210,Arbonne,Nouvelle-Aquitaine,FR,esteff1,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+91,M,BAKAHER,F,4 toki goxoa,0,64310,Ascain,,FR,murielbak,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+92,Laura,Czajka,F,36 rue Carnot,0,92100,Boulogne-Billancourt,,FR,buba,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+93,Véronique,Fischer,F,28 Rue Pierre et Marie Curie,0,92140,Clamart,Île-de-France,FR,veronique-fischer05,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+94,Antoine,Régis,H,Swammerdamstraat,39A,1091RR,Amsterdam,Noord-Holland,NL,antoine-regis,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+95,Caroline,Pilaudeau,F,15 rue Louis Braille,0,77380,Combs la Ville,,FR,caro-213,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+96,Sandra,Geiger,F,5 rue de Paris,0,67118,Geispolsheim,,FR,contact-738,655971.0,Adhésion à vie - Tarif réduit,2.0,78.0
+97,JEAN-LOUIS,GUEGAN,H,8 rue des hautes prasles,0,91580,ETRECHY,FRANCE,FR,gueg,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+98,Yohanne,YUNG,F,1 Rue du Nord,0,54200,Pagney-derrière-Barine,Grand-Est,FR,yohanne-y,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+99,Eva,Derquenne,F,29 route de vouziers,0,02370,Conde sur aisne,,FR,eva-derquenne,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+100,Céline,PERMEZEL,F,169 Route de la Curiat,0,01300,Izieu,Auvergne-Rhône-Alpes,FR,cecelinep,655971.0,Adhésion à vie - Tarif réduit,3.0,117.0
+101,Noemie,Giraud,F,16 Rue Émile Thibault,0,63170,Pérignat-lès-Sarliève,Auvergne-Rhône-Alpes,FR,noemie-giraud,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+102,Sandrine,THUILLIER,F,7 Allée Albert Robida,0,78290,Croissy-sur-Seine,Île-de-France,FR,sandrine_thuillier,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+103,Sophie,ROBINEAU,F,7 Rue du Vieux Banc,App.202,35400,Saint-Malo,Bretagne,FR,srobineau35,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+104,Anne Sophie,Sabatier,F,53 Traverse du Tonkin,0,13010,Marseille 10e Arrondissement,Provence-Alpes-Côte d'Azur,FR,sabatieras,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+105,GREGORY,GARAT,F,2 Rue de l'Ormeau,0,37420,Savigny-en-Véron,Centre-Val de Loire,FR,garatgregory,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+106,Christian,Pilon,H,7 Allée du Potager,0,91170,Viry-Châtillon,Île-de-France,FR,chrpilon,656196.0,ADHÉSION À VIE - Duo,1.0,99.0
+107,Evelyne,Kaczmarek,F,16 impasse La Berle,0,33470,Gujan mestras,Aquitaine,FR,evelynek-2,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+108,,,F,17A rue du vertuquet,0,59960,NEUVILLE EN FERRAIN,,FR,robinsmum,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+109,Francis,Gruszewski,H,12 Chemin de Marquis Fontaine,0,57050,Metz,Grand-Est,FR,francis-gski,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+110,Magali,Castan,F,13 Route de Moussan,0,11100,Narbonne,Occitanie,FR,magalicastan11,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+111,Olivier,LAGARDE,H,12 Rue Einstein,0,92160,Antony,Île-de-France,FR,o-lagarde,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+112,Amélie,LIARD,F,3 Lotissement des Tilleuls,0,10200,Thil,Grand-Est,FR,a-liard,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+113,Francis,LARVOR,H,14 rue Auguste Piccard,0,56000,VANNES,France,FR,hiberfox,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+114,alexandre,goret,H,4 square vitruve,BAL3304,75020,Paris,,FR,kalimounets,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+115,Pascal,RENE,H,Rue Curie,Batiment G1,77177,BROU SUR CHANTEREINE,,FR,pascaljfrene,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+116,Amélie,LE PORT,F,26 Chemin du Pont Fort,0,85160,Saint-Jean-de-Monts,Pays-de-la-Loire,FR,melimelo-56,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+117,Philippe,BOULLAND,H,32,0,72130,Moulins le Carbonnel,,FR,pboulland,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+118,Yves,LATAUD,H,73 Rue Marius Lacroix,0,17000,La Rochelle,Nouvelle-Aquitaine,FR,yves-lataud,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+119,Sophie,Ruch,F,73 Rue de Clignancourt,0,75018,Paris 18e Arrondissement,Île-de-France,FR,sofboon,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+120,MARC,BUONOMANO,H,33 Avenue du Maréchal Foch,0,95100,Argenteuil,Île-de-France,FR,mbuonomano,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+121,Cassandre,Nollet,F,153 Rue de Sailly,Ferme de la Nolliere,59510,Hem,Hauts-de-France,FR,nolletcassandre,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+122,Beatrice,REYNIER,F,31 Rue François Mitterrand,0,33290,Ludon-Médoc,Nouvelle-Aquitaine,FR,beatrice-reynier,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+123,Axelle,Princen,F,6 Rue Réaumur,0,85300,Challans,Pays-de-la-Loire,FR,princeax,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+124,Lydie,CHIRON,F,5 s Avenue Roger Salengro,0,51430,Tinqueux,Île-de-France,FR,lydie-chiron,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+125,Anne,Dideron,F,La Guillaumette,0,30600,Vestric et Candiac,,FR,zaza-61,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+126,Marie,Gadeau,F,296 Avenue Noël Verlaque,0,83500,La Seyne-sur-Mer,Provence-Alpes-Côte d'Azur,FR,mistigri_3,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+127,Cyril,Prou,H,10 Rue de la Belladone,0,49120,Chemillé-en-Anjou,Pays-de-la-Loire,FR,shargin,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+128,Nathalie,CARRE,F,10 Square Jules Ferry,0,95110,Sannois,Île-de-France,FR,603445551,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+129,Mathilde,Le Frious,F,"LE FRIOUS
+
+47b avenue du Général de Gaulle",0,92130,Issy les moulineaux,,FR,leblogduvisage,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+130,Julie,Usubelli,F,88 Rue Eau de Robec,1er étage numéro 4,76000,Rouen,Normandie,FR,julie-usubelli,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+131,Nathalie,Chauvineau,F,92 Impasse Lou Cimai,0,83110,Sanary-sur-Mer,Provence-Alpes-Côte d'Azur,FR,nathalie_chauvineau,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+132,Chloé,Drezen,F,71 Route de Neuf-Brisach,0,68000,Colmar,Grand-Est,FR,chloe-drezen,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+133,BENJAMIN,NOEL,H,434 Avenue de la Division Leclerc,"appartement 343, etage -1",92290,CHATENAY-MALABRY,,FR,ben-noel,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+134,Ludivine,Mecker,F,107 Impasse des Prés,"Batiment Acacias, Etage 3",73370,Le Bourget-du-Lac,Auvergne-Rhône-Alpes,FR,ludi-mecker,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+135,Patrick,MERIGOT,H,15 Chemin de Ferrandière,0,38800,Champagnier,Auvergne-Rhône-Alpes,FR,patrick-217,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+136,Saskia,Slama,F,86 Avenue Mozart,6eme étage - interphone Slama,75016,Paris 16e Arrondissement,Île-de-France,FR,saskia-slama,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+137,Jennifer,Simonet,F,3 rue de la Tirade,Moulet-Marcenat,63530,Volvic,,FR,simonet_jennifer,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+138,Elody,Mertes,F,25 Rue de l'Argonne,Chambre 603,75019,Paris 19e Arrondissement,Île-de-France,FR,elopeople,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+139,Floriane,Bonnefoy,F,3 bis Impasse Thiers,0,93200,Saint-Denis,Île-de-France,FR,flokl,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+140,Julie,Levy,F,20 rue des fossés saint bernard,0,75005,Paris,,FR,lo-levy-berville,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+141,Laetitia,Prasit,F,74 Bis Avenue Paul Doumer,0,92500,Rueil-Malmaison,,FR,tititenten,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+142,Sandrine,LEINOT,F,5 Avenue du Général de Gaulle,App B 104,77330,Ozoir-la-Ferrière,Île-de-France,FR,sandrineleinot,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+143,Sandra,Lyard,F,1 rue Joliot Curie,0,74960,Meythet,,FR,sansoul,655971.0,Adhésion à vie - Tarif réduit,2.0,78.0
+144,Rym,Trabelsi,F,5 Rue de Senlis,Étage 2 porte gauche,75017,Paris 17e Arrondissement,Île-de-France,FR,leeloo375,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+145,Corinne,ZARMATI,F,25 chemin de Rac aux Joannins,0,26780,MALATAVERNE,,FR,corinnezarmati26,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+146,Jérôme,Davidovits,H,5 rue du Vignoble,0,77590,Bois le Roi,Seine et Marne,FR,jerome-davidovits,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+147,Lydie,BRUYERE,F,43 Rue des Aqueducs,LA CLOSERIE BAT B,69005,Lyon 5e Arrondissement,Auvergne-Rhône-Alpes,FR,lydiebruyere,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+148,Audrey,Lamontagne,F,1 Rue Sancho Panca,Hotel B&B,93160,Noisy-le-Grand,Île-de-France,FR,audreymini1609,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+149,Joanna,Barthe,F,17 Allée George Sand,0,67640,Lipsheim,Grand-Est,FR,joanna-barthe,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+150,Caroline,Bailly,F,24 Rue Franklin,0,92600,Asnières-sur-Seine,Île-de-France,FR,caewn,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+151,Julie,Dubrac,F,35 boulevard de port-royal,0,75013,Paris,,FR,judub,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+152,Matthieu,Bulgrin,H,Hauptstrasse 23c,0,40668,Meerbusch,,DE,matthieu75003,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+153,Nicolas,Ghirardi,H,17 a Avenue du Docteur Arnold Netter,0,75012,Paris 12e Arrondissement,Île-de-France,FR,nicolas-po-ghirardi,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+154,Pamela,Vanoye,F,1 Chemin du Baudy,9 parc du Buclay,69260,Charbonnières-les-Bains,Auvergne-Rhône-Alpes,FR,pamelavanoye,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+155,Manon,Talec,F,3 Rue Victor Hugo,0,92700,Colombes,Île-de-France,FR,manon-giampieri,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+156,Charline,Lalande,F,42 rue de l’aqueduc,0,75010,Paris,,FR,charline-lalande,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+157,Charlotte,Jacobsen,F,56 Rue Nationale,0,74500,Évian-les-Bains,Auvergne-Rhône-Alpes,FR,charlottejacobsen,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+158,Pauline,Demougin,F,8 Rue Georges Genoux,Appartement 4,70000,Vesoul,Bourgogne-Franche-Comté,FR,d_pauline,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+159,Marie-Noëlle,LEFFRAY,F,Le Clos Meloir,0,22980,Saint-Méloir-des-Bois,Bretagne,FR,marinol,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+160,Eléonore,Leloup,F,9 Rue du Fief d'Anjou,0,44310,Saint-Colomban,Pays-de-la-Loire,FR,eleonore-leloup,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+161,Florian,Guillot,H,47bis bd richard lenoir,Bat C,75011,Paris,,FR,floone,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+162,Sandra,Carcone,F,31 Les Olivières,0,69420,Tupin-et-Semons,Auvergne-Rhône-Alpes,FR,sandra-carcone,657937.0,Adhésion à vie - Tarif normal,1.0,79.0
+163,Johanna,Gilles,F,25 Rue Paul Paray,0,34500,Béziers,Occitanie,FR,j-gilles122,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+164,Amelie,NOEL,F,"161, rue de javel",0,75015,Paris,,FR,amelienoel,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+165,Marion,Godefroy,F,19 rue du puits grenet,0,95230,Soisy sous montmorency,,FR,marioncloud,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+166,Christelle,Burr,F,15 Rue Jean Jaurès,0,67600,Sélestat,Grand-Est,FR,chrisandherbutterflies,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+167,Prescillia,Zachary,F,6 rue des seigneurs,0,68960,Willer,,FR,prescillia-zachary,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+168,Anais,Meziani,F,24 Rue du Huit Mai 1945,0,59496,Salomé,Hauts-de-France,FR,a-nais14,657937.0,Adhésion à vie - Tarif normal,1.0,79.0
+169,Ophelie,Hoyez,F,1710 Route de Rognes Cd18,0,13760,Saint-Cannat,Provence-Alpes-Côte d'Azur,FR,ophelie-hoyez,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+170,,,F,8 rue saint marc,0,75002,paris,,FR,chabrg,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+171,Eden,Schmitt,H,Domaine de Biar,0,34880,Lavérune,,FR,eden-schmitt,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+172,Oussama,Ezzayer,H,89 Rue des Pyrénées,"Boite ""Bélanger/Ezzayer""",75020,Paris 20e Arrondissement,Île-de-France,FR,kyojin,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+173,Marine,Gabel,F,1 Rue Erckmann Chatrian,0,67205,Oberhausbergen,Grand-Est,FR,mgabel,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+174,Lucie,Mosnier,F,La garde,0,63230,Chapdes beaufort,,FR,luciemosnier,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+175,Virginie,Sauvayre,F,1a rue de l'abrivado,Villa 4,30420,Calvisson,,FR,virginie-sauvayre,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+176,Guillaume,Delord,H,5 Rue Gentil,4 eme étage,69002,Lyon 2e Arrondissement,Auvergne-Rhône-Alpes,FR,guillaumedlord,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+177,maele,noll,F,41 Rue Georges Médéric,0,94700,Maisons-Alfort,Île-de-France,FR,maele-noll,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+178,Luana,Lopez,F,4 Allée de Taillefer,7ème étage,74000,Annecy,Haute-Savoie,FR,llbattagin14,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+179,FANNY,chauviere,F,16 Avenue de Bouvines,0,75011,Paris 11e Arrondissement,Île-de-France,FR,fanny-vrac,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+180,Claire,Le Guennec,F,40 Rue Jean Bart,0,17440,Aytré,Nouvelle-Aquitaine,FR,alhyssa,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+181,Bastien,BENOIT,H,126 Rue des Néfliers,0,77720,Saint-Ouen-en-Brie,Île-de-France,FR,bastienbenoit77,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+182,Pauline,Anfray,F,26 Impasse de la Colombière,Château-Vieux,74500,Féternes,Auvergne-Rhône-Alpes,FR,polinmalin,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+183,,,,"5, rue de charonne",0,75011,Paris,,FR,k-mayalevy,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+184,Milena,Seguin,F,56 rue de Buzenval,0,75020,Paris,France,FR,mseguin,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+185,François,Tapponnier,H,195 Route de Saint-Nizier,0,01330,Le Plantay,Auvergne-Rhône-Alpes,FR,francois-tapponnier,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+186,Julia,Legrand,F,10 Rue Racine,Appartement 2206,75006,Paris 6e Arrondissement,Île-de-France,FR,julia-legrand64,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+187,veronique,maldéra,F,22 bis Avenue Georges Clemenceau,0,34000,Montpellier,Occitanie,FR,veronique-maldera,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+188,Yannick,Martel,H,28 rue des souches,0,44230,Saint Sébastien sur Loire,,FR,chtidkois,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+189,Antoine,ELEFTERAKIS,H,340 Rue Jacques Coeur,0,69380,Chessy,Auvergne-Rhône-Alpes,FR,fizzz,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+190,Philippe,Gallic,H,8 rue Demarquay,0,75010,Paris,,FR,philippegallic,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+191,VIRGINIE,BRAHIM,F,170 A Avenue Bollée,Appt 502,72000,Le Mans,Pays-de-la-Loire,FR,onimidori,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+192,Clélie,ARNAUD,F,1 Avenue Hubert Dubedout,0,33270,Floirac,Nouvelle-Aquitaine,FR,cleliearnaaud,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+193,Maxime,Jolivet,H,44 Rue des Frères le Montreer,2ème étage,22700,Perros-Guirec,Bretagne,FR,maximjolivet,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+194,Victoire,DUHOT,F,3 Rue Benoît Tabard,0,69130,Écully,Auvergne-Rhône-Alpes,FR,victoiredht,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+195,Marianne,Houbron,F,43 Rue Paul Verlaine,0,69100,Villeurbanne,Auvergne-Rhône-Alpes,FR,mhoubron,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+196,Florence,Dancoisne,F,2 Allée Robert Schumann,0,78670,Villennes-sur-Seine,Île-de-France,FR,fdancoisne01,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+197,Myriam,NAKOU LELO,F,21 Rue de la Prairie,0,33170,Gradignan,Nouvelle-Aquitaine,FR,myrcana21,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+198,Camille,COUET,F,810 chemin de La Croix Blanche,Boîte aux lettres numéro 2,13300,Salon-de-Provence,,FR,berova,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+199,Alma,Zaragoza,F,43 Rue des Prairies,0,75020,Paris 20e Arrondissement,Île-de-France,FR,zaragozalma,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+200,Stéphanie,DOUADI,F,23 Chemin d' Ossun,0,65380,AZEREIX,Midi-Pyrénées,FR,stphaniedasilva,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+201,Valentine,Cilla,F,6 rue Saint Nicolas,0,54930,Gugney,,FR,valentine-5,655971.0,Adhésion à vie - Tarif réduit,2.0,78.0
+202,Ludivine,Menay,F,91 t Rue du Château,0,77400,Dampmart,Île-de-France,FR,menay-ludivine,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+203,Geraldine,Norguet,F,6 Passage Lathuille,"Bâtiment À, 2ème étage",75018,Paris 18e Arrondissement,Île-de-France,FR,geraldine-norguet,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+204,Louis,Staehle,H,89 Rue du Dôme,0,92100,Boulogne-Billancourt,Île-de-France,FR,louis-staehle,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+205,Alice,Modoux,F,3 Rue Saint-Charles,0,75015,Paris 15e Arrondissement,Île-de-France,FR,alice-modoux,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+206,Camille,DALONGEVILLE,F,Apt 327-4 cour chateaubriand,0,10120,ST ANDRE LES VERGERS,,FR,camilledalongeville,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+207,Marine,Pierre,F,116 Boulevard Jean Moulin,App 136,49100,Angers,France,FR,marine9,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+208,ISABELLE,DRUEZ,F,24 Traverse des Bastides,Quartier des pinèdes,13680,Lançon-Provence,Provence-Alpes-Côte d'Azur,FR,idr13,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+209,Océane,Lesoeur,F,3 Rue du Mont du Saule,0,14940,SANNERVILLE,Normandie,FR,o-lesoeur,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+210,Marie-Neige,MOREAU,F,29 Rue des Cerisiers,0,85170,Le Poiré-sur-Vie,Pays-de-la-Loire,FR,marieneige-moreau,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+211,Kevin,Darmon,H,28 Rue Vladimir Jankelevitch,0,77184,Émerainville,Île-de-France,FR,aureliefernandez89,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+212,Euriel,Morvézen,F,1 Impasse Mont Blanc,0,31200,Toulouse,Occitanie,FR,euriel_morvezen,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+213,Marie,Classine,F,44 Rue de Montmorency,0,75003,Paris 3e Arrondissement,Île-de-France,FR,marie-classine,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+214,Pauline,Jani,F,60 Rue Roger Salengro,0,42000,Saint-Étienne,Auvergne-Rhône-Alpes,FR,paulinejani,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+215,Doria,Livain,F,269 Chemin du Buissonnay,0,38660,Lumbin,Auvergne-Rhône-Alpes,FR,doria_livain,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+216,Laura,Marrocco,F,45 rue Mathurin regnier,0,75015,Parid,Auvergne-Rhône-Alpes,FR,lorene-pidoux,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+217,Erell,DEREUX,F,3 Place des Trieux,0,59132,Wallers-en-Fagne,Hauts-de-France,FR,erell-dereux,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+218,Laurent,BASQUIN,H,86 Boulevard Carnot,Appt 43,59800,Lille,Hauts-de-France,FR,laurentbasquin,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+219,Bénédicte,Dambuyant,F,Doucy Dessous,0,73630,Doucy-en-Bauges,Auvergne-Rhône-Alpes,FR,dambubene,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+220,Camille,Poulain Pacoret,F,68 rue Bellocier,0,89100,Sens,,FR,camille-44,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+221,Charlotte,Cabot,F,12 Rue de Lesdiguières,"B8013, 3ème étage, gauche, fond du couloir",75004,Paris 4e Arrondissement,Île-de-France,FR,charlotte-cabot1,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+222,Celine,Benoist c,F,12 Allée des Libellules,0,64600,Anglet,Nouvelle-Aquitaine,FR,cebenoist-0,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+223,Jonathan,FAVREAU,H,5 Rue Kléber,0,44000,Nantes,Pays-de-la-Loire,FR,jonathanfavreau0fa5a5294d734da2,655971.0,Adhésion à vie - Tarif réduit,2.0,78.0
+224,Natalia,Chadzynski,F,22 Boulevard de Reuilly,Appartement 27 (1er étage),75012,Paris 12e Arrondissement,Île-de-France,FR,alexandra_a,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+225,Gwënn,Simon,F,12 Allée des sœurs Goadeg,0,29000,QUIMPER,,FR,nelig,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+226,Ophélie,Brusset,F,83 Quai Louis Ferber,Batiment B2,94360,Bry-sur-Marne,Île-de-France,FR,alexandra_a,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+227,Sylvie,MARTIN-JABOULAY,F,"Clinique Lyon Champvert - SECMED
+
+71 rue Benoist Mary",0,69005,LYON,,FR,sylviemj,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+228,Capucine,Guhur,F,14 Rue Pierre Larousse,4 eme droite,75014,Paris 14e Arrondissement,Île-de-France,FR,balou-toctoc,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+229,Lucas,Bonetto,H,353 Rue Paradis,0,13008,Marseille 8e Arrondissement,Provence-Alpes-Côte d'Azur,FR,lucas-bonetto,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+230,Guilaume,DA SILVA,H,1 bis chemin de vésiau,0,65380,ORINCLES,,FR,guyom4444,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+231,Hillel,FIONGAÏNDIRO,H,5 Rue des Peupliers,0,35210,Montreuil-des-Landes,Bretagne,FR,nihon_addict,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+232,nathalie,Gabrielli,F,82 Boulevard Massena,App 52,75013,Paris,82,FR,bergamoth,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+233,Sullivan,Pereira,H,120 Rue Jean Jaurès,0,94700,Maisons-Alfort,Île-de-France,FR,sullii_78,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+234,Maxime,Sanceo,H,2 rue Francis,0,01200,Valserhone,,FR,msanceo-sep2018,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+235,Eric,Rapicault,H,2 Rue de la Merize,0,72370,Le Breil-sur-Mérize,Pays-de-la-Loire,FR,_the_mysterious_adventuer_,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+236,Claude,COURBET,H,106 Route de Faget,0,47240,Bon-Encontre,Nouvelle-Aquitaine,FR,courbet-claude,656196.0,ADHÉSION À VIE - Duo,1.0,99.0
+237,Carole,Laimay,F,12 rue Henri Brisson,0,44600,Saint-Nazaire,,FR,carole_laimay,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+238,Alexandra,De Anda,F,15 rue Eva Kotchever,Appartement 151,75018,Paris,,FR,b00273999,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+239,Cécile,Arfi,F,530 Rue du Petit Clos,0,27180,Le Plessis-Grohan,Normandie,FR,cecile-reber,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+240,Emmanuelle,Andrez,F,124 Avenue Saint-Exupéry,0,92160,Antony,Île-de-France,FR,e-aitourdja,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+241,Laure,Lamoureux,F,20 rue Lafouge,0,94250,Gentilly,,FR,laurelx,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+242,Marie,Rousseau,F,3 bis rue Saint Denis,0,28230,Epernon,FRANCE,FR,ma-rousseau,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+243,Maylis,Ricci,F,25 Rue Saint-Ausone,0,16000,Angoulême,Nouvelle-Aquitaine,FR,maylisricci,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+244,Sophie,Robin,F,Bellevue 2B,0,2400,Le Locle,Neuchâtel,CH,josephineetsophie,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+245,Esther,Louis joseph,F,6 Allée de la noiseraie,0,93160,Noisy-le-Grand,,FR,estherlouisjoseph93,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+246,Pauline,Villeneuve,F,35 rue d alsace,0,92110,Clichy,,FR,paulinevilleneuve,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+247,caroline,gallay,F,217 Rue Paul Valéry,0,34980,Saint-Gély-du-Fesc,Occitanie,FR,gallay-caro,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+248,nathalie,PEZIN,F,3 Avenue Jules Ferry,Appartement  8,60340,saint-leu-d'esserent,,FR,nathaliepezin,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+249,Camille,François,F,53 Rue Gutenberg,5e étage / gauche,75015,Paris 15e Arrondissement,Île-de-France,FR,camillefrancois,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+250,Mathilde,Werro,F,Fin du Chêne 7,0,1772,Grolley,Fribourg/Freiburg,CH,mathildewerro65,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+251,Amandine,Marschal,F,17 rue de Buschwiller,0,68220,Hesingue,,FR,dinouuuu,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+252,Anne Laure,Collette,F,10 Rue de l'Ancienne Comédie,0,86000,Poitiers,Nouvelle-Aquitaine,FR,annelaure-collette,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+253,Charlene,Levert,F,41 Rue du Potier,0,93150,Le Blanc-Mesnil,Île-de-France,FR,charlounelevert,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+254,Marion,Lim,F,4 Place du 19 Mars 1962,0,93240,Stains,Île-de-France,FR,marionlim,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+255,Coralie,Genevray,F,146 Allée des Renoncules,0,38330,Saint-Ismier,Auvergne-Rhône-Alpes,FR,coralie10-genevray,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+256,Pascale,Bertin,F,230 Avenue Becquart,0,59130,Lambersart,,FR,patsales,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+257,Mélanie,Schmitt,F,1 bis Ruelle à Boudet,0,95440,Écouen,Île-de-France,FR,ateliersb-ecouen,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+258,Alix,Barbe,F,56 Rue de Paradis,Batiment B - 4e etage,75010,Paris 10e Arrondissement,Île-de-France,FR,alixbarbe,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+259,Nicolas,Foucat,H,1 rue Wolfgang Amadeus Mozart,0,78100,Saint-Germain-en-Laye,,FR,ysengrinarbleiz,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+260,Romain,MATHIEU,H,10 rue du Guichet,0,92110,Clichy,,FR,romainmathieu-rm,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+261,Cannelle,Guhur,F,"14, rue Pierre Larousse",0,75014,Paris,île-de-france,FR,cannellelacanaille,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+262,Fanny,Braquart,F,91 bis Avenue de la Résistance,0,93340,Le Raincy,Île-de-France,FR,fannybraquart,655971.0,Adhésion à vie - Tarif réduit,2.0,78.0
+263,Marie,Hurtel,F,11 Place du Parlement de Bretagne,0,35000,Rennes,Bretagne,FR,mariehurtel7,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+264,Camille,Melin,F,10 boulevard Arago,0,75013,Paris,,FR,camille-melin,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+265,Paula,Szejnfeld Sirkis,F,239 bis rue Lafayette,0,75019,Paris,,FR,pausze,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+266,Johanna,Gallou,F,14 Rue du Bois de la Roche,0,29610,Garlan,Bretagne,FR,johanna-gallou,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+267,Bérénice,Divet,F,2 La Groussinais,0,35600,Sainte-Marie,Bretagne,FR,berenice-divet,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+268,Sélia,Pion,F,8 lieu-dit Haute Folie,0,49123,Ingrandes-le-Fresne-sur-Loire,,FR,seliapion,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+269,Lucie,Michaelis,F,36 Rue des Peupliers,0,75013,Paris 13e Arrondissement,Île-de-France,FR,no-pouriel,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+270,Lea,Vallejo,F,4 Rue Georges Labit,0,31400,Toulouse,Occitanie,FR,vallejolea,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+271,Johanne,PIGNOLET,F,4 Allée de la Forêt,C002,77184,Émerainville,Île-de-France,FR,johanne-pignolet,655971.0,Adhésion à vie - Tarif réduit,3.0,117.0
+272,Baptiste,Fassin,H,28 Rue Aristide Briand,0,95520,Osny,Île-de-France,FR,baptiste-45,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+273,Eric,Etienne,H,14 Rue du Drakkar,0,17440,Aytré,Nouvelle-Aquitaine,FR,tchouf08,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+274,Clément,FIZEL,H,42 Rue des Prairies,0,44220,Couëron,Pays-de-la-Loire,FR,westwind,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+275,Beatrice,Schott,F,25 Avenue de Guise,0,57100,Thionville,Grand-Est,FR,beatrice-85,656196.0,ADHÉSION À VIE - Duo,1.0,99.0
+276,charlyne,lecointre leprest,F,34 Rue Robert Lindet,2eme etage premiere porte a gauche,75015,Paris 15e Arrondissement,Île-de-France,FR,chacha-2020,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+277,Aurore,Grimonprez,F,4 Rue Jules Sandeau,0,87000,Limoges,Nouvelle-Aquitaine,FR,gabriellement_,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+278,Olga & Cyril,Cazettes,F,110 Rue Reguelongue,0,31100,Toulouse,Occitanie,FR,camille-czs08,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+279,Lies & Patrick,CAZETTES,F,22 Rue Édouard Branly,0,81000,Albi,Occitanie,FR,camille-czs08,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+280,Audrey,Antolinos,F,23 Rue de Cassiopée,0,77380,Combs-la-Ville,Île-de-France,FR,audrey-auc,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+281,Aurélie & Renaud,Battail,F,324 Chemin des sources,0,38770,Monteynard,,FR,renb,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+282,Laurie,Jonquiere,F,74 Boulevard Voltaire,0,75011,Paris 11e Arrondissement,Île-de-France,FR,l_jonquiere,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+283,Béatrice,Bourassin,F,8 Rue du Point du Jour,Appartement 70,08600,Givet,Grand-Est,FR,beatrice-bourassin,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+284,katleen,lendormy,F,78 Boulevard de Verdun,0,45110,Châteauneuf-sur-Loire,Centre-Val de Loire,FR,adraelyse,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+285,Pauline,Cesar,F,Lieu dit gabriello,0,20145,Solenzara,,FR,cesar-florence,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+286,Eliane,Krtolitza,F,"15, Chemin de Roux",0,39210,PLAINOISEAU,,FR,eliane-krtolitza,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+287,Charlotte,Lambert,F,67 Avenue Alsace-Lorraine,0,65000,Tarbes,Occitanie,FR,charlotteolivier,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+288,Marie,De Figuerredo,F,39 rue des templiers,0,62145,Enquin lez guinegatte,,FR,mariedf62,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+289,martine,kowanski,F,7 les vignes de champabon,0,77520,Donnemarie-Dontilly,Île-de-France,FR,ermakani,655971.0,Adhésion à vie - Tarif réduit,2.0,78.0
+290,Julie,Senant,F,3 rue Park bras,0,29830,Plouguin,,FR,julie-senant,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+291,Béatrice,VAYLEUX,F,278 rue Joachim Murat,0,46000,CAHORS,,FR,beavay,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+292,Julie,de Figuerredo,F,926 Route du Mont,0,62132,Fiennes,Hauts-de-France,FR,julie-defig,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+293,Elise,BEUQUE,F,Rellinghauser Straße 137,0,45128,Essen,Nordrhein-Westfalen,DE,lily-56,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+294,Pauline,Bouquet,F,51 r Rue de la Fontaine au Roi,La Patronnerie,75011,Paris 11e Arrondissement,Île-de-France,FR,bouquet-pauline1,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+295,Marie-Luce,Menant,F,7 Sentier des Cottainvilles,0,94240,L'Haÿ-les-Roses,Île-de-France,FR,marieluce-menant,655971.0,Adhésion à vie - Tarif réduit,2.0,78.0
+296,Maïlys,Coffre,F,10 Rue Berzelius,0,75017,Paris 17e Arrondissement,Île-de-France,FR,m-coffre,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+297,Sybille,DURAND,F,77 Rue du Professeur Rochaix,0,69003,Lyon 3e Arrondissement,Auvergne-Rhône-Alpes,FR,sybille-durand,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+298,Arnaud,Burgniard,H,3 Rue Mozart,0,69100,Villeurbanne,Auvergne-Rhône-Alpes,FR,arnaudburgniard,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+299,Eugénie,BEAUCHESNE,F,8 Villa Honoré-Gabriel Riqueti,0,75015,Paris 15e Arrondissement,Île-de-France,FR,eugenie-beauchesne,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+300,Romain,Berthet,H,Le Haut Marjon,Chemin des Galotières,69510,Soucieu-en-Jarrest,Auvergne-Rhône-Alpes,FR,leo-marjon51o,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+301,Lionel,Gallo,H,219 Rue des Pins,0,07430,Davézieux,Auvergne-Rhône-Alpes,FR,l-gallo,656196.0,ADHÉSION À VIE - Duo,1.0,99.0
+302,Véronique,Le Traon,F,9 rue des champs fleuris,0,44390,Les Touches,,FR,vatanerwan,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+303,Alice,Lambert,F,5 Rue de Tanger,0,75019,Paris 19e Arrondissement,Île-de-France,FR,alice-lilou-lambert,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+304,Héléna,Vo,F,24 Allée du Tenailler,0,74940,Annecy,Auvergne-Rhône-Alpes,FR,lnavo,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+305,jérémy,roche,H,33 Impasse du Pont Neuf,0,43120,Monistrol-sur-Loire,Auvergne-Rhône-Alpes,FR,jeremyroche,655971.0,Adhésion à vie - Tarif réduit,2.0,78.0
+306,Marie,Charnot,F,40 Avenue de la Gare,Bat C app 25,74500,Évian-les-Bains,Auvergne-Rhône-Alpes,FR,macha008,655971.0,Adhésion à vie - Tarif réduit,2.0,78.0
+307,Sandrine,Garcia,F,31 bis Avenue de Canteloup,0,33290,Ludon-Médoc,Nouvelle-Aquitaine,FR,sggarcialudon,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+308,Laëtitia,Ridremont,F,10A rue de l’Yser,0,17440,Aytré,,FR,latitiardt,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+309,DAMIEN,RIVOIRE,H,25 Chemin de Tepin,0,38150,Sonnay,Auvergne-Rhône-Alpes,FR,damien-171,656199.0,ADHÉSION À VIE - Share the love !,1.0,349.0
+310,Karine,VINCENT,F,3 rue Marcel Pagnol,Les Villas Magenta B23,22000,Saint-Brieuc,,FR,bebopbleu,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+311,Catherine,Royer,F,17 Rue des Papillons,0,93100,Montreuil,Île-de-France,FR,catherinepretat,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+312,Anne,SOULIER,F,47 RUE SAINT NICOLAS,0,71490,COUCHES,,FR,anne_soulier,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+313,Nicolas,Salva,H,11 Chemin de la Payssière,0,31670,Labège,Occitanie,FR,nicolas-salva,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+314,guillaume,de gottal,H,4 Rue de la République,CAPITEM PARTENAIRES,69001,lyon,Auvergne-Rhône-Alpes,FR,guillaumegdg,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+315,Noëmie,Dagusé,F,24 Avenue des Grolles,0,44100,Nantes,Pays-de-la-Loire,FR,daguse-noemie,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+316,famille,sacchi,F,"17, rue hermel",0,75018,paris,,FR,olivialanu,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+317,Manon,Guidarelli,F,9 B avenue Louis Caristan,0,97354,Rémire-Montjoly,,GF,guidarelli-manon,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+318,Nahid,Belagoune,F,19 rue de ladous,0,33800,Bordeaux,,FR,nahid-belagoune,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+319,Fanny-Laure,DE VISSCHER,F,4 rue du petit jean,0,38610,Gières,,FR,nevaltha,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+320,abdessalem,DAY,H,17 Rue Houdart,0,75020,Paris 20e Arrondissement,Île-de-France,FR,day-abdessalem,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+321,Leslie,Antar,F,11 Rue Vieillard,Appartement 13,33300,Bordeaux,Nouvelle-Aquitaine,FR,antarleslie,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+322,Amandine,GIRARD,F,12 rue du Commerce,0,75015,Paris,,FR,mllejyrart,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+323,Nathalie,SANTELLI,F,56 Rue de l’Église,Appartement 212,93410,Vaujours,,FR,nathaliesantelli,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+324,Marion,Guillet,F,21 Passage Lathuille,0,75018,Paris 18e Arrondissement,Île-de-France,FR,marion1979,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+325,Laurence,Grenard,F,4 Square Gabriel Fauré,0,75017,Paris 17e Arrondissement,Île-de-France,FR,laurencegrenard,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+326,Célia,Habjaoui,F,13 Rue Hispano Suiza,0,92270,Bois-Colombes,Île-de-France,FR,celiadoassans,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+327,julie,terrand,F,10 Chemin du Petit Moulin,0,69270,Fontaines-sur-Saône,Auvergne-Rhône-Alpes,FR,jterrand,657937.0,Adhésion à vie - Tarif normal,1.0,79.0
+328,Diana,Gomes,F,8 Rue Legouve,Boîte à lettres 5,75010,Paris 10e Arrondissement,Île-de-France,FR,anaid,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+329,Louis,GARBAY,H,50 Rue du Faubourg Saint-Martin,0,75010,Paris 10e Arrondissement,Île-de-France,FR,louis-garbay,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+330,Anne-Sophie,Denou,F,58 Boulevard Leccia,0,13003,Marseille 3e Arrondissement,Provence-Alpes-Côte d'Azur,FR,danaso,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+331,Tara,Flecknell,F,"125 Rue de l'Abbé Bonpain
+
+BAT 1, Appt 211",0,59700,Marcq-en-Barœul,Hauts-de-France,FR,flecknell-tara,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+332,Lucile,Goursat,F,35 bis Rue Neuve,0,77910,Varreddes,Île-de-France,FR,lucile-goursat,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+333,jb,chounet,H,15 Rue de l'Ardèche,0,31170,Tournefeuille,Occitanie,FR,jb-chounet,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+334,justine,valette,F,6 rue Michel Felizat,0,69007,Lyon,,FR,justinevlt,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+335,Ingrid,REVEL,F,5 Chemin de la Tuilerie,0,69530,Brignais,Auvergne-Rhône-Alpes,FR,anafa7,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+336,Salomé,MAIRE-AMIOT,F,Rue de la Piemente,Allée À - étage 6,69009,Lyon 9e Arrondissement,Auvergne-Rhône-Alpes,FR,salomema,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+337,Brice,YZOARD,H,14 Avenue Gustave Gailly,0,08000,Charleville-Mézières,,FR,destinya,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+338,claire,clavel,F,55 Boulevard Serurier,0,75019,Paris 19e Arrondissement,Île-de-France,FR,claireclavel-perso,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+339,Angela,Machado,F,22 Rue des Carrières,0,95240,Cormeilles-en-Parisis,Île-de-France,FR,angelaxmachado,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+340,Marine,Portier,F,15 Rue Gagnée,Relais Accueil,94200,Ivry-sur-Seine,Île-de-France,FR,umiko974,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+341,Siriane,Houty,F,62 rue Saint-Gervais,0,69008,Lyon,,FR,siriane-houty,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+342,Anaïs,Louzon,F,24 Impasse de l'Agau,0,34970,Lattes,Occitanie,FR,siana_lou,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+343,Manon,Talec,F,3 Rue Victor Hugo,0,92700,Colombes,Île-de-France,FR,manon-giampieri,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+344,Quentin,Pitalier,H,26 avenue des Monts d'Arrèe,0,35700,Rennes,,FR,quentinpitalier,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+345,Corinne,Museur,F,3 Allée de l'Acerma,0,91190,Gif-sur-Yvette,Île-de-France,FR,corinne-museur,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+346,Baptiste,Neyret,H,16 Rue Franklin,0,69002,Lyon 2e Arrondissement,Auvergne-Rhône-Alpes,FR,neyretbaptiste,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+347,Mélissa,Lefebvre,F,80 Rue Robespierre,Bâtiment A - App02,93170,Bagnolet,,FR,colibriou,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+348,Aurélien,Lefebvre,H,118 Route de Narbonne,"Résidence Maryse Bastié, log. 411",31400,Toulouse,Occitanie,FR,aurelien_shippuden,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+349,Dimitri,Delaire,H,6 Route de Gélacourt apt 9 bat 7C2,0,54120,Baccarat,Grand-Est,FR,dimitri-delaire,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+350,Céline,Lagier,F,7 rue Edouard Branly,0,78800,Houilles,,FR,celine_lagier,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+351,Pauline,Sararols,F,Rue de Lancy 4,0,1227,Carouge,GE,CH,paulinesrrls,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+352,Anne-Lise,Marot,F,4 Avenue du Général de Gaulle,Appt 82,37000,Tours,Centre-Val de Loire,FR,christopher-miloche,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+353,Caroline,SICARD,F,42 rue Émile Zola,0,26800,Portes les valence,,FR,carosic,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+354,Camille,Van Bever,F,1 Villa Poirier,0,75015,Paris 15e Arrondissement,Île-de-France,FR,camille-vanbever,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+355,Adriane,GRUAU,F,63 Rue du Rehtal,0,57405,Guntzviller,Grand-Est,FR,adriane-g,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+356,Aude,Falco,F,26 rue Robert Lindet,0,75015,PARIS,,FR,audefalco,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+357,Carla,Mikhael,F,37 Avenue Victor Hugo,3B Chez Roland Tohme,75016,Paris 16e Arrondissement,Île-de-France,FR,carlamikhael123,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+358,Sophie,Ianiro,F,232 Boulevard Voltaire,5ème étage,75011,Paris 11e Arrondissement,Île-de-France,FR,sophie-ianiro,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+359,Amélie,Coulombe,F,14 Rue Michel Gachet,0,13007,Marseille,Provence-Alpes-Côte d'Azur,FR,krokola_france,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+360,Josephine,Josephine Neveux,F,32 rue Lemercier,0,75017,Paris,Paris,FR,josephineneveux,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+361,Houda,Simothé,F,62 Rue du 19 Mars 1962,0,93220,Gagny,Île-de-France,FR,houda-kemmouche,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+362,Loryn,Fontaine,F,3 Rue Ginestet,Résidence Secret Blagnac Appt B03,31700,Blagnac,Occitanie,FR,loryn974,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+363,Erwan,Vatan,H,9 rue des champs fleuris,0,44390,Les Touches,,FR,vatanerwan,655971.0,Adhésion à vie - Tarif réduit,2.0,78.0
+364,Isabelle,Chin,F,13 rue fondary,0,75015,Paris,,FR,isabellechin,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+365,Sylvie,CAMPECH,F,56 chemin de Liffard,0,31100,Toulouse,,FR,sylviecampech,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+366,marie et dimitri,fourgault,F,120 rue paul bellamy,0,44000,nantes,,FR,mariefourgault,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+367,Elyse,GORID,F,137 Avenue de Tarascon,0,84000,Avignon,Provence-Alpes-Côte d'Azur,FR,esyle13,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+368,Marine,Humbert,F,82 rue de Montreuil,0,94300,Vincennes,,FR,marine-humbert,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+369,Quentin,Goupille,H,44 Rue Pierre Curie,0,93100,Montreuil,Île-de-France,FR,quent1205,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+370,Candice,Tissot,F,1 chemin de Sufferchoix,0,13410,Lambesc,,FR,candice-tissot,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+371,pierre,decourcelles,H,3 rue Lucien Dupuis,0,28500,Vernouillet,,FR,plondon2015,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+372,Aurélie,Lhumeau,F,Winterfeldtstraße 37,0,10781,Berlin,Berlin,DE,aurelie-lhumeau,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+373,Pierre,Roubacka,H,40 rue de Campo Formio,0,75013,Paris,,FR,tarotpierre,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+374,Virgile,DEPRES,H,8 rue du 8 mai 1945,0,59195,HERIN,,FR,karnage59,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+375,Esther,Larroudé,F,328 route des Barthes,0,40180,Tercis les Bains,,FR,esther-larroude,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+376,Damien,Peuffier,H,RN7 quartier les freiresques,0,13660,Orgon,,FR,damien-peuffier,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+377,Camille,Turpin,F,12 rue d'Anjou,0,53200,Laigné,,FR,turpin-camille,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+378,Marilyse,Toquet,F,25 rue des silex,0,35520,La Mézière,,FR,marilyse2404,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+379,Maxence,HARMAND,H,3 a Rue d'Alsace,0,54460,Liverdun,Grand-Est,FR,harmandmaxence,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+380,Alexia,Agostini,F,28 Rue de la Révolution,0,66720,Tautavel,Occitanie,FR,alexia_agostini,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+381,Martial,Brostin,H,"32 rue René Cassin
+Résidence SCOLARIS appartement 2305",0,14000,Caen,,FR,mbmb1,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+382,Anna,Brun,F,14 Rue Général le Flo,0,44000,Nantes,Pays-de-la-Loire,FR,anou,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+383,fabienne,BOIDRON,F,18 rue sainte claire,0,74000,ANNECY,,FR,fabienneboidron,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+384,Norma,Grandclement,F,149 Rue de Belleville,0,75019,Paris 19e Arrondissement,Île-de-France,FR,normagdt,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+385,Jennifer,Tolosa,F,Lieu dit La maison forte,0,47340,Monbalen,,FR,tolosa-jennifer,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+386,Marion,Lim,F,4 Place du 19 Mars 1962,0,93240,Stains,Île-de-France,FR,marionlim,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+387,jb,chounet,H,15 Rue de l'Ardèche,0,31170,Tournefeuille,Occitanie,FR,jb-chounet,655971.0,Adhésion à vie - Tarif réduit,2.0,78.0
+388,Sylvie,MARTIN-JABOULAY,F,"Clinique Lyon Champvert - SECMED
+
+71 rue Benoist Mary",0,69005,LYON,,FR,sylviemj,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+389,Leslie,Leslie Nogueron,F,58 rue de crevecoeur,0,93300,Aubervilliers,,FR,lesliecaro,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+390,Caroline,Schmidt,F,49 Avenue Pierre Grenier,0,92100,Boulogne-Billancourt,Île-de-France,FR,schmidt-caroline,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+391,Kevin,Martinol,H,8 Rue Saint Catherine,0,74600,Annecy,,FR,kvinmartinol,655971.0,Adhésion à vie - Tarif réduit,2.0,78.0
+392,Amanda,Heysch,F,36 Avenue Gérard Philipe,0,19140,Uzerche,Nouvelle-Aquitaine,FR,hdlba,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+393,Perrine,Boisseau,F,11 route de Jussarupt,0,88640,Champdray,,FR,perrine_boisseau11,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+394,Galaad,PREAU,F,8 Rue de Passy,0,75016,Paris 16e Arrondissement,Île-de-France,FR,galaad-preau,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+395,Philomène,Certain-Bresson,F,2 Rue Ampère,0,01000,Bourg en Bresse,,FR,philocb,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+396,Emmanuelle,FIARD,F,84 rue du docteur Andarelli,0,84400,Apt,,FR,emmanuelle_autre,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+397,Caroline,Portevin,F,321 Rue Marcel Belot,0,45160,Olivet,Centre-Val de Loire,FR,caroline-portevin,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+398,Celine,Barrière,F,35 Rue Fontaine de Jade,0,63460,Artonne,Auvergne-Rhône-Alpes,FR,celine-354,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+399,Aline,Au,F,67 Rue de la Convention,0,75015,Paris 15e Arrondissement,Île-de-France,FR,aualine,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+400,Pía,Poduje,F,"La Poste St Marceau
+
+19 Avenue de la mouillère",0,45100,Orléans,,FR,pioupel,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+401,Mélanie,Godard,F,14 Avenue Marcel Martinie,0,92170,Vanves,Île-de-France,FR,melanie-godard,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+402,Isabel,Martin,F,241 chemin de layettaz,0,38080,Saint Marcel bel accueil,,FR,isabrucla,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+403,Laury,Bruguiere,F,293 Rue de Valene,0,34980,Saint-Gély-du-Fesc,Occitanie,FR,bruguiere-laury,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+404,Elodie,Amar,F,15 impasse de la blanchardière,0,72190,Sargé-lès-le-Mans,,FR,elodieamar72,655971.0,Adhésion à vie - Tarif réduit,2.0,78.0
+405,Lucile,Gonzalez,F,47 Rue Madeleine Bres,0,86000,Poitiers,Nouvelle-Aquitaine,FR,lucile-gz,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+406,Sophie,Péan,F,15 Ave de la Pajaudière,0,44000,Nantes,,FR,vuparso,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+407,SANDRINE,HAZAN,F,19 c Rue Gambetta,0,69270,Fontaines-sur-Saône,Auvergne-Rhône-Alpes,FR,msbucourt,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+408,Marion,GUILLAUME,F,54 Rue Hoche,0,78800,Houilles,Île-de-France,FR,guillaume-m27,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+409,Hyun-Jung,Song,F,"Richez Associés,
+
+2 Rue de la Roquette",0,75011,Paris 11e Arrondissement,Île-de-France,FR,hyunjung-song,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+410,Pauline,Seneclauze,F,52 Rue de Brest,6e étage dte,69002,Lyon 2e Arrondissement,Auvergne-Rhône-Alpes,FR,pauline-seneclauze,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+411,Julie,Godin,F,16 Villa Compoint,0,75017,Paris 17e Arrondissement,Île-de-France,FR,julie-andrieu-rup,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+412,Loïc,Chareton,H,17 rue Pierre de Coubertin,Appartement 86,21000,Dijon,,FR,lchtnrc,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+413,Julie,Betelu,F,91 bis Impasse Denena,chez Annie Pujo,64200,Arcangues,Nouvelle-Aquitaine,FR,superjujue,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+414,Caroline,Counot,F,11 rue du 11 Novembre 1918,0,54270,Essey les Nancy,Grand-Est,FR,nouque-caroline,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+415,Melanie,BRANDIN,F,23C rue de soisy,0,95600,Eaubonne,,FR,miimibrd,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+416,Chris,Casier,H,19 Rue Baudin,0,26000,Valence,Auvergne-Rhône-Alpes,FR,chris-matou,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+417,Julien,Gerbet,H,23 rue Thiers,0,17000,La Rochelle,,FR,studioplouf,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+418,Thibault,Taupin,H,24 Rue Miollis,0,75015,Paris 15e Arrondissement,Île-de-France,FR,thibault-taupin,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+419,Clermont,Fu,H,172 avenue de choisy,Gardien au 180 avenue de choisy,75013,Paris,France,FR,clermontfu,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+420,Kevin,Brosse,H,45 Grande rue de la Guillotière,0,69007,Lyon,,FR,julie-07-m,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+421,S et T,Cayol,H,363 Avenue de Fabron,0,06200,Nice,Provence-Alpes-Côte d'Azur,FR,leo-marjon51o,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+422,Virginie,AVEZ,F,6 rue luce boyals,Appt B63,31300,Toulouse,,FR,niniehaves,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+423,Kevin,NOLIN,H,12 rue dugas montbel,0,69002,LYON,,FR,kevin-noliin,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+424,Axelle,Mokry,F,101 route de Bussioz,0,74140,Machilly,Haute-Savoie,FR,vanata,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+425,Romane,Lotigie,F,Le Biolaton,0,73700,Bourg-Saint-Maurice,Auvergne-Rhône-Alpes,FR,romanelotigie,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+426,Valérie,Anglionin,F,760 Chemin des Groules,0,06600,Antibes,Provence-Alpes-Côte d'Azur,FR,lea-coeurveille,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+427,Aurore,Tarze,F,119 avenue du Général Leclerc,0,92340,Bourg-la-reine,,FR,atarze,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+428,Léa,Coutaye,F,37 Rue des Épinettes,0,75017,Paris 17e Arrondissement,Île-de-France,FR,lea-coutaye,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+429,Mélina,Abello,F,7 Rue Henry de Cessole,Résidence Villa Marie - 7/9 impasse henry de cessole,06100,Nice,Provence-Alpes-Côte d'Azur,FR,mlinaabello,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+430,Julie,AGUSTINA,F,13 d Rue du Parc d'Athis,3ème droite,91200,Athis-Mons,Île-de-France,FR,julieagustina,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+431,Katharina,Strohbach,F,11 Rue de la Chapelle,0,68400,Riedisheim,Grand-Est,FR,katharina-strohbach,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+432,Flore,Depierre,F,Avenue Albert 52,0,1190,Forest,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest,BE,depflore2,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+433,Stéphanie,Cerdan,F,"72 bis rue du colonel rochebrune
+
+Bat B - apt 3102",0,92380,Garches,Île-de-France,FR,stcerdan,657937.0,Adhésion à vie - Tarif normal,1.0,79.0
+434,Victoria,Hérouard,F,20 Rue Sauffroy,4ème,75017,Paris 17e Arrondissement,Île-de-France,FR,victoria-herouard,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+435,Eléa,Denis,F,19 Rue Joseph Michaudet,0,74000,Annecy,Auvergne-Rhône-Alpes,FR,eladenis,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+436,Aymeric,BIDET,H,12 rue Henri,0,94000,Créteil,,FR,aymericbidet,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+437,Célia,Soulier,F,12 Rue Neptune,0,34990,Juvignac,Occitanie,FR,celia-soulier,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+438,Florence,Cesar,F,9 Impasse du Planastel,0,06800,Cagnes-sur-Mer,Provence-Alpes-Côte d'Azur,FR,cesar-florence,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+439,Julia,Boulet-Leyris,F,21 Rue Damesme,0,75013,Paris 13e Arrondissement,Île-de-France,FR,julia-leyris,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+440,Florent,Marques,H,5  Rue d'Argout,0,75002,Paris 2e Arrondissement,Île-de-France,FR,vodax,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+441,Justine,Chabert,F,2 Allée Xavier Sarradet,0,31500,Toulouse,Occitanie,FR,nathlec76,655971.0,Adhésion à vie - Tarif réduit,2.0,78.0
+442,Jean-Paul,Biotteau,H,47 Boulevard de la Chapelle,0,75010,Paris 10e Arrondissement,Île-de-France,FR,jpbiot,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+443,Marie-Christine,Chau,F,1 Rue de la Liberté,3002,94340,Joinville-le-Pont,Île-de-France,FR,chau-mariechristine,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+444,Nehla,Benabderrahmane,F,11 avenue bernard lathiere,0,91200,Athis Mons,,FR,ben-nehla,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+445,Elodie,Magnin,F,848 Route de Thollon,zone artisanale de montigny,74500,Maxilly-sur-Léman,Auvergne-Rhône-Alpes,FR,magninelodie,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+446,Léa,Doucet,F,"21 rue de Paris, résidence Corne de Cerf",Étage 1,35500,Vitré,,FR,leadoucet,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+447,Eléonore,Olive-Malavialle,F,5 Rue Marius Charles,0,38420,Domène,Auvergne-Rhône-Alpes,FR,eleonore-olive,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+448,Teddy,Serrano,H,Vestre Teglgade 2C st. tv,0,2450,København SV,,DK,teddyserrano,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+449,Claire-Lise,Moreau,F,47 Guesny,0,44130,Blain,Pays-de-la-Loire,FR,clairelisemoreau,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+450,Déborah,MARCHIENNE,F,47 allée des lys du Valois,0,60800,Crépy en Valois,Oise,FR,dborahmrch,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+451,Thomas,Schetter,H,5 Rue Bernard et Mazoyer,Appt B31,93300,Aubervilliers,Île-de-France,FR,mazoyerb31,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+452,Viviane,LEGER,F,2 rue Ribotti,Palazzo Ribotti,06300,Nice,,FR,vivianelight,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+453,Aishat,GARBA,F,9 bis Rue Édouard Tremblay,0,94400,Vitry-sur-Seine,Île-de-France,FR,shelloto,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+454,martine,kowanski,F,7 les vignes de champabon,0,77520,Donnemarie-Dontilly,Île-de-France,FR,ermakani,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+455,Ying-Ying,Wong,F,19 Rue de saint Didier,Les anciennes écuries,01700,NEYRON,,FR,pywa,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+456,Samantha,Louet,F,21 ter Rue des Papillons,0,41200,Romorantin-Lanthenay,Centre-Val de Loire,FR,samantha-louet2,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+457,Matthieu,SALLES,H,112 Cours Vitton,Code 9102 / Apt 103 / 1er droite,69006,Lyon 6e Arrondissement,Auvergne-Rhône-Alpes,FR,neptunes-mat,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+458,Agathe,MINO,F,2 Rue de la Brianderie,0,44100,Nantes,Pays-de-la-Loire,FR,agathe-mino,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+459,Emmanuelle,GROLLET,F,49 Rue du Rempart des Voiliers,0,17000,La Rochelle,Nouvelle-Aquitaine,FR,emmanuelle-grollet,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+460,Marie,BINOT,F,26 Rue Seguin,Batiment E,69002,Lyon 2e Arrondissement,Auvergne-Rhône-Alpes,FR,mariebinot,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+461,Catherine,Aubert,F,31 Rue des Petites Écuries,Batiment C - 1er étage,75010,Paris 10e Arrondissement,Île-de-France,FR,catherineaubert2,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+462,Sabrina,Touchard,F,11 Rue de Tocqueville,0,75017,Paris 17e Arrondissement,Île-de-France,FR,sabrina-touchard,655971.0,Adhésion à vie - Tarif réduit,2.0,78.0
+463,Chloé,Dufournaud,F,8 Rue Joseph Souchet,0,45400,Fleury-les-Aubrais,Centre-Val de Loire,FR,chloe-dufournaud,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+464,Saskia,Cazettes,F,93 Rue Flament Reboux,0,59130,Lambersart,Hauts-de-France,FR,camille-czs08,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+465,Caroline,Duong,F,536 Avenue Roger Salengro,0,92370,Chaville,Île-de-France,FR,miss_teo_chew,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+466,emilie,Stevenin,F,146 Rue du Plantay,0,69480,Lucenay,Auvergne-Rhône-Alpes,FR,emiliestevenin,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+467,Clemence,Logie,F,20 rue de l'Eglise,0,59350,Saint andré lez lille,,FR,clemloige,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+468,Louise,BACHEROT,F,55 rue Ney,0,69006,Lyon,,FR,louisebacherot,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+469,Sarah,Lemoine,F,17 Boulevard Maurice Clerc,0,26000,Valence,Auvergne-Rhône-Alpes,FR,sarahlemoine,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+470,Aurélie,Lemarquand,F,8 Allée des Mimosas,0,91940,Les Ulis,Île-de-France,FR,aurelielemarquand,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+471,Berengere,Jouve,F,2 Rue des Fleurs,0,78220,Viroflay,Île-de-France,FR,berengere-jouve,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+472,Maud,Filhastre,F,2 Impasse Vie,0,34170,Castelnau-le-Lez,Occitanie,FR,maud-filhastre,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+473,Ingrid,Alvarez-Bastien,F,20 Grand-Rue,0,34725,Jonquières,Occitanie,FR,thing34,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+474,Fanny,Nimis,F,569 chemin de bouconne,0,31530,Montaigut sur save,,FR,fannynimis,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+475,Juliette,Person,F,10 Lotissement l'Orée du Bois,0,27180,Les Ventes,Normandie,FR,jltt-person,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+476,Pauline,Bourgeois,F,60 Rue des Meuniers,0,75012,Paris 12e Arrondissement,Île-de-France,FR,bourgeoispauline,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+477,Laurianne,Canet Meucci,F,822 Avenue de Vaugrenier,0,06270,Villeneuve-Loubet,Provence-Alpes-Côte d'Azur,FR,laurianne-meucci,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+478,Mélissa,Lefebvre,F,80 Rue Robespierre,Bâtiment A - App02,93170,Bagnolet,,FR,colibriou,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+479,Rose,BOURRELLY,F,6 Rue Jean Vilar,Apt A21 - Bat A1 - Rés Le Hameau d'Agathéa,34670,Baillargues,Occitanie,FR,keokierra,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+480,marina,cervetti,F,7 rue alexandre ribot,0,59000,lille,,FR,teqpeche,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+481,Roselyne,Pillon,F,15 Rue des Oiseaux,0,77176,Savigny-le-Temple,Île-de-France,FR,roselyne-pillon,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+482,Phuoc,Nelet,H,13 Rue Danton,Appartement 12,94270,Le Kremlin-Bicêtre,Île-de-France,FR,phuoc_nelet,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+483,Maxime,Suinot,F,355 Avenue Augustin Fresnel,Bat. C1 Apt. 3123,13290,Aix-en-Provence,Provence-Alpes-Côte d'Azur,FR,maxsuinot,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+484,GENDRON,KATHLEEN,F,362 Route de l'Adret,0,06360,EZE,Provence-Alpes-Côte d'Azur,FR,harmonie_box,656196.0,ADHÉSION À VIE - Duo,1.0,99.0
+485,Victoire,Zeller,F,93 Avenue Jean-Baptiste Clément,6437,92100,Boulogne-Billancourt,Île-de-France,FR,victoirezeller,657937.0,Adhésion à vie - Tarif normal,1.0,79.0
+486,Logan,Labrouche,H,96 avenue Roger Salengro,0,33130,Bègles,,FR,logan-labrouche,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+487,Charlène,Bonifassi,F,24 Rue Cassini,0,06300,Nice,Provence-Alpes-Côte d'Azur,FR,charlenegiordana,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+488,Faustine,Cambra,F,25 Rue des Antilles,0,31650,Saint-Orens-de-Gameville,Occitanie,FR,faustinecambra,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+489,Salomé,MAIRE-AMIOT,F,Rue de la Piemente,Allée À - étage 6,69009,Lyon 9e Arrondissement,Auvergne-Rhône-Alpes,FR,salomema,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+490,Laetitia,Briolon,F,75 Rue Godard,0,33200,Bordeaux,Nouvelle-Aquitaine,FR,laetitiabriolon,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+491,Mona,Liandier,F,8 Rue de Bagnolet,0,75020,Paris 20e Arrondissement,Île-de-France,FR,mona-liandier,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+492,William,Hanrio,H,16 rue d Amaury,0,78640,Villiers-saint-Fréderic,,FR,will786,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+493,Anouck,Massant,F,Rue Van Campenhout 63,0,1000,Ville de Bruxelles,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest,BE,anouck_m,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+494,Radiance,Calmer,F,"3, rue de la bascule",0,87190,Dompierre les Eglises,,FR,tara_louvain,656196.0,ADHÉSION À VIE - Duo,1.0,99.0
+495,Alexandra,Le Masurier,F,31 rue Jean Pierre Timbaud,Bat b Appt 36,92320,Chatillon,,FR,alexandra-lemasurier,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+496,Gwenn,Martines,F,57 rue rapatel,0,93100,Montreuil,,FR,gwennmartines,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+497,Romain,Braquart,H,91 Bis Avenue de la résistance,0,93340,Le Raincy,,FR,romainbra,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+498,Gaelle,Piccamiglio,F,110 Chemin du Chaney,0,73800,Cruet,Auvergne-Rhône-Alpes,FR,gaelle-pic,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+499,lorene,pidoux,F,Rue Saint-Roch 28,0,1002,Lausanne,Vaud,CH,lorene-pidoux,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+500,Clara,Doiteau,F,5 levee de la loire,"Appt 03, rdc",37520,La riche,,FR,clara72610,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+501,Marie,Palomar,F,74 f Avenue du Président François Mitterrand,0,31800,Saint-Gaudens,Occitanie,FR,marie-estelle-palomar,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+502,Christine,EZERZER,F,29 Rue Chasset,0,69400,Villefranche-sur-Saône,Auvergne-Rhône-Alpes,FR,christine-ezerzer,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+503,Paul-Henry,Bizon,H,2 Rue Jean-Baptiste Say,0,75009,Paris 9e Arrondissement,Île-de-France,FR,phbizon,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+504,Laetitia,Marguerite Rosier,F,6 Rue du Maire Aussenac,0,34200,Sète,Occitanie,FR,marguerite_rosier,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+505,Samantha,Messens,F,266 a Impasse des Tournesols,Arnaud Larguier,30000,Nîmes,Occitanie,FR,samanthamessens,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+506,Clémence,VERICEL,F,8 Rue Jules Guesde,0,92300,Levallois-Perret,Île-de-France,FR,clemence-vericel,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+507,Sophie,Fournet,F,5 rue Boulay,0,75017,PARIS,,FR,sofifi,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+508,Bénédicte,Dufrenne,F,7 Allée des Lavognes,0,34170,Castelnau-le-Lez,Occitanie,FR,benedicte-dufrenne,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+509,Sophie,LEANDRE,F,14 rue des tuileries,APPT 56,95360,MONTMAGNY,Île-de-France,FR,dendooo,655971.0,Adhésion à vie - Tarif réduit,2.0,78.0
+510,Anne Ségolene,Michaud,F,599 Route de Port Rivière,0,69830,Saint-Georges-de-Reneins,Auvergne-Rhône-Alpes,FR,aas-michaud,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+511,Sarah,Fivel,F,108 route de la Croisette,0,74160,collonges sous saleve,,FR,sarahfiveldemoret,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+512,Audrey,Chevallier,F,14 Avenue Pierre Brossolette,0,91170,Viry-Châtillon,Île-de-France,FR,youyou9118,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+513,Pierre,Vidal,H,8 allée Lucie Février-Pascal,Bâtiment A 201,34070,Montpellier,,FR,pierrevivi,655971.0,Adhésion à vie - Tarif réduit,2.0,78.0
+514,Dominique,MIELLE,F,"2, résidence du Parc",0,78650,BEYNES,,FR,ptit_dom,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+515,daphne,greiner,F,38 Avenue Jean d'Estienne d'Orves,0,94340,Joinville-le-Pont,Île-de-France,FR,daphnegreiner98,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+516,EMILIE ET HUGUES,VAILLANT - CHABANON,F,89 ter rue des moulins,0,63200,RIOM,16,FR,chabanhu,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+517,Joëlle,Lemoine,F,2 Rue des Cornouillers,0,60129,Orrouy,Hauts-de-France,FR,gavial,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+518,Jessica,Chabalier,F,38 rue du Maréchal Foch,0,57390,Audun le Tiche,,FR,chriseys,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+519,Marine,Dupont,F,194 Rue Joseph Viollet,0,69400,Gleizé,Auvergne-Rhône-Alpes,FR,marinezouz,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+520,CELINE,FLEISCHMANN,F,90 rue de l’abbé groult,0,75015,Paris,,FR,celinefleischmann,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+521,Cora-Lynn,Vaissiere,F,3 Rue François Cabrol,0,12000,Rodez,Occitanie,FR,cora-lynn-vaissiere,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+522,Eva,CARDOSO,F,439 Rue de Lachal,0,42800,Genilac,Auvergne-Rhône-Alpes,FR,evacardoso-42800,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+523,Lise,Talbi,F,3 Rue de Monbel,0,75017,Paris 17e Arrondissement,Île-de-France,FR,lizymiaou,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+524,Ludivine,Menay,F,91 t Rue du Château,0,77400,Dampmart,Île-de-France,FR,menay-ludivine,655971.0,Adhésion à vie - Tarif réduit,2.0,78.0
+525,Cathydja,Patel,F,12 Rue des Orfèvres,0,67000,Strasbourg,Grand-Est,FR,cathydja-patel,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+526,Jessica,Prudent,F,31 bis Rue Jules Vedrines,0,92240,Malakoff,Île-de-France,FR,tiare-973,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+527,Audrey,LAHAYE,F,50 Rue Einstein,Bat E,77000,Vaux-le-Pénil,Île-de-France,FR,lahayeaudrey,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+528,Diane,GAUTHIER,F,4 Allée du Bois des Singles,0,17750,Étaules,Nouvelle-Aquitaine,FR,gauthier-diane,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+529,valerie,pontonnier,F,32 rue dolto,0,21800,QUETIGNY,FRANCE,FR,vayarose,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+530,Johanne,PIGNOLET,F,4 Allée de la Forêt,C002,77184,Émerainville,Île-de-France,FR,johanne-pignolet,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+531,Chloé,Brion,F,86 Avenue Niel,0,75017,Paris 17e Arrondissement,Île-de-France,FR,brnchloe,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+532,Grégory,Grégory Dubuissez,H,11 rue Falret,0,92170,VANVES,,FR,bedwer,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+533,Alizee,Toison,F,146 Boulevard Chave,0,13005,Marseille 5e Arrondissement,Provence-Alpes-Côte d'Azur,FR,alizee-toison,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+534,Anastasiia,Kondratieva,F,8 Rue Saint-Flaceau,0,72000,Le Mans,Pays-de-la-Loire,FR,kondratieva-ana,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+535,Audrey,Rouxel,F,10 Boulevard de Bonne Nouvelle,0,75010,Paris 10e Arrondissement,Île-de-France,FR,audrey-rouxel,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+536,Nathalie,Le lann,F,5 Rue de la Liberté,Appartement 307,78280,Guyancourt,Île-de-France,FR,nathalielelann25,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+537,,,F,,0,,,,,galou73,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+538,Alexandra,GUILLAUME,F,"26, rue du Gué de l’Arche",Le Moulin du port,41400,St Georges sur Cher,,FR,namaste75010,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+539,Céline,Couvidat,F,17 rue Pasteur,0,92320,Châtillon,"Sélectionnez votre région, état ou province",FR,couvidatc,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+540,Claire,Cere,F,"Herne Cottage
+Abbey Road",0,CA27 0ED,St. Bees,,GB,clairejaubert,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+541,remy,exelmans,,33 ter allée cocos,0,97438,Ste Marie,Reunion,RE,rexelmans,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+542,Karine,Diakite,F,7 Rue Robert Lavergne,3/80,92600,Asnières-sur-Seine,Île-de-France,FR,karinedia,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+543,Anastasia,Iagovdik,F,3 Cité Chaptal,0,75009,Paris 9e Arrondissement,Île-de-France,FR,frenchiago,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+544,Laetitia,Landais Donzallaz,F,Route de Jussy 230,0,1254,Jussy,Genève,CH,leelou79,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+545,Ivan,de Murard,H,10 Rue de Saussure,0,75017,Paris,,FR,ivanivan,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+546,Françoise,DALLEST,F,52 Rue de Charmenton,0,07100,Annonay,Auvergne-Rhône-Alpes,FR,francoisedallest,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+547,Julien,Folliot,H,70 rue Henri Gautier,0,44220,Couëron,Loire Atlantique,FR,folliot-julien,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+548,Myriam,BERTHOUD,F,81 Impasse d' Ibarrondoa,0,64310,Saint-Pée-sur-Nivelle,Nouvelle-Aquitaine,FR,myriam-berthoud,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+549,Anne,Laperruque,F,21 Rue du Cardinal,0,17350,Crazannes,,FR,alap87,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+550,Julie,Laperruque,F,61 Boulevard de Strasbourg,0,31000,Toulouse,Occitanie,FR,julie-laperruque,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+551,Sophie,Jama,F,2 Impasse Mozart,0,17138,Saint-Xandre,Nouvelle-Aquitaine,FR,sophie-jama17,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+552,Nathalie,Wittmann,F,19 Avenue du 20e Corps,0,54000,Nancy,Grand-Est,FR,nathalie-wi,655971.0,Adhésion à vie - Tarif réduit,3.0,117.0
+553,Alexandra,Alliod,F,27 Avenue Daniel Mercier,0,07100,Annonay,Auvergne-Rhône-Alpes,FR,alexandra-alliod,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+554,Laura,Follin,F,7 Rue Charles Legendre,0,91260,Juvisy-sur-Orge,Île-de-France,FR,follinlaura,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+555,lydie,cellot,F,6 Impasse des Ouches,0,28300,Bailleau-l'Évêque,Centre-Val de Loire,FR,cellot-lydie,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+556,Quentin,Bezard-Falgas,H,13 rue eva kotchever,appartement 126,75018,Paris,,FR,q-bezardfalgas,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+557,Marie,GRELOT,F,194 Impasse du Jardin,0,30129,Manduel,Occitanie,FR,marie-grelot,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+558,Perrine,Merotto,F,1 Rue d'Armenonville,Chez Mme Peschoux,75017,Paris,,FR,perrinemerotto,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+559,Pauline,Ponte,F,277 Chemin Pose Perret,0,74250,Peillonnex,,FR,pops_pte,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+560,Bérénice,LASNIER,F,720 chemin des Monteils,0,07200,VESSEAUX,,FR,orius,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+561,Manon,Lemarchand,F,18 Rue le Marois,0,75016,Paris 16e Arrondissement,Île-de-France,FR,manonlmchd,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+562,Marine,Perrin,F,1 a Rue des Merisiers,0,90160,Pérouse,Bourgogne-Franche-Comté,FR,marine-perrin-0,655971.0,Adhésion à vie - Tarif réduit,3.0,117.0
+563,Léa,Gerbaix,F,3658 route de bonneville,la papeterie,74800,arenthon,france,FR,gerbaixlea,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+564,Julien,Souchay,H,48 chemin de Mussonville,Bat C Hall A Appt C015,33130,Bègles,,FR,aikanaru,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+565,Thirsa,Doumbia,F,116 Rue du Croissant,Bat A1 - Apt 6,44300,Nantes,Pays-de-la-Loire,FR,ts-doumbia,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+566,Marie,Duruflé,F,1 rue Hippolyte Maindron,0,49000,ANGERS,,FR,mcdrfl,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+567,Emilie,Baranowski,F,59 Rue Voltaire,Appartement 301 code 1703,92800,Puteaux,Île-de-France,FR,baranowski-emilie,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+568,PATRICIA,OLIVE,F,617 chemin des Espérières,0,30210,VALLIGUIERES,,FR,pastiche30210,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+569,laurent,ruel,H,10 Impasse des Colombes,0,31830,Plaisance-du-Touch,Occitanie,FR,laurent-ruel,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+570,Simon,Olivier,H,27 Place de l'Office du Tourisme,Agence olivier,74110,Morzine,Auvergne-Rhône-Alpes,FR,o-simon74110,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+571,Gaëlle,Berthier,F,4 Place du Champ de Mars,0,33000,Bordeaux,Nouvelle-Aquitaine,FR,gaelleberthier,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+572,Cyril,Vauthier,H,"27, Rue Ramponeau",0,75020,Paris,,FR,cyril-vauthier,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+573,Alexandra,Manevski,F,75 rue Roger Brun,0,13005,Marseille,,FR,levam,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+574,Margaux,Thuriot,F,11 Rue Jean-Baptiste Pigalle,0,75009,Paris 9e Arrondissement,Île-de-France,FR,gomar-15,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+575,Guillaume,Giroux,H,767 Rue du Paradis,0,16590,Brie,Nouvelle-Aquitaine,FR,guillaumegix,655971.0,Adhésion à vie - Tarif réduit,2.0,78.0
+576,Karin,Niederhauser,F,Chemin de la distillerie 14a,0,1233,Bernex,,CH,kpetitdemange,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+577,Julien,DELEAN,H,6 Quai de Paris,0,67000,Strasbourg,Alsace,FR,chabou4242,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+578,Pauline,WAN,F,60 Clos des Cascades,0,93160,Noisy-le-Grand,Île-de-France,FR,siiimply-me,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+579,Amélie,Malinet,F,7 Quai des Étroits,"Pas d'interphone, appelez sur le numéro indiqué plus haut",69005,Lyon 5e Arrondissement,Auvergne-Rhône-Alpes,FR,ameliemn,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+580,Louis,Ansa,H,11 Rue Montgallet,0,75012,Paris 12e Arrondissement,Île-de-France,FR,apachan,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+581,Aurelie,Chevanse,F,1bis rue pierre termier,0,69660,Collonges-Au-Mont-d’Or,,FR,aurelie-chevanse,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+582,Fanny,Bulinge,F,16 rue André Ruel,0,42000,Saint-Etienne,,FR,fannysolal,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+583,Mailys,Contant,F,39 Rue de Lyon,0,75012,Paris 12e Arrondissement,Île-de-France,FR,contant-mailys,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+584,Hanen,Mouden,F,67 Rue des Bourguignons,2eme étage Gauche,92270,Bois-Colombes,Île-de-France,FR,hnn-elm,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+585,Aline,Clairand,F,88 Rue du Grand Douzille,0,49000,Angers,Pays-de-la-Loire,FR,aclairand86,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+586,Charlotte,Bustarret,F,6 place Henri Bergson,0,75008,Paris,,FR,charlottevincent,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+587,Thomas,Bounthong,H,37 Boulevard du Ségrais,0,77185,Lognes,Île-de-France,FR,hnh-carine,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+588,Anais,Knafo,F,148 Rue de Charonne,0,75011,Paris 11e Arrondissement,Île-de-France,FR,anais-knafo,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+589,Aude,Gallais,F,1 ALLEE DU LEVANT,0,35270,COMBOURG,FRANCE,FR,audeprout,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+590,Juliet,Grélot,H,194 Impasse du Jardin,0,30129,Manduel,Occitanie,FR,grelotjuliet,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+591,Marine,Gauthier,F,26 rue de la Division Leclerc,batiment 2 - interphone,92140,Clamart,,FR,marinegauthier,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+592,CHRISTELLE,ROUSSELIN,F,28 RUE FELIX FAURE,0,91170,VIRY CHATILLON,,FR,christelle-rousselin,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+593,Chloé,de Pierrepont,F,19 Montée des Epies,0,69005,Lyon 5e Arrondissement,Auvergne-Rhône-Alpes,FR,depierrepontchloe,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+594,Annick,WERNER,F,16 Avenue Roger Salengro,0,68100,Mulhouse,Grand-Est,FR,annick-werner,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+595,Marie,Laporte,F,2 rue des mûriers,Résidence Althéa bâtiment D appartement 17,31120,Roquettes,,FR,mariajeanne,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+596,Soizic,LACOUR,F,69 Rue Marx Dormoy,0,75018,Paris 18e Arrondissement,Île-de-France,FR,soizic-lacour,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+597,Léa,Fournols,F,10 Rue Lacretelle,0,75015,Paris 15e Arrondissement,Île-de-France,FR,lea-fournols,655971.0,Adhésion à vie - Tarif réduit,3.0,117.0
+598,Alexandra,Lambert,F,82 Avenue Roger Salengro,0,62223,Saint-Laurent-Blangy,Hauts-de-France,FR,alexandra-lbt,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+599,Manon,Paulic,F,5 rue Barbès,code : 1670,94200,Ivry-sur-Seine,Select State,FR,mplck,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+600,Valerie,Arrighi de Casanova,F,52 Rue Jean-Jacques Rousseau,0,92150,Suresnes,Île-de-France,FR,varrighidecasanova,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+601,Gollnhofer,Catherine,F,20 Rue Damozanne,0,14000,Caen,Normandie,FR,cgollnhofer,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+602,Géraldine,MERCIER,F,8a quai du Rhin,0,68330,Huningue,,FR,mercier-geraldine,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+603,Amandine,Marquis,F,9 rue du bac,0,38190,Brignoud,,FR,amandinemarquisb6f1123bd0304232,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+604,Ghislaine,Antherieu,F,175 Boulevard du Général Giraud,Escalier B - 4ème etage,94100,Saint-Maur-des-Fossés,Île-de-France,FR,ghislaine-antherieu,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+605,Charles,Lapierre,H,33 Avenue du Général Michel Bizot,0,75012,Paris 12e Arrondissement,Île-de-France,FR,charles-lapierre-cl,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+606,Virginie,Da Costa Santos,F,25 l Rue de l'Essonne,Porte 17,91000,Évry,Île-de-France,FR,dacostasantosv,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+607,Fanny,Lemay,F,55 l Rue Veuve Lacroix,0,92250,La Garenne-Colombes,Île-de-France,FR,fanny-lemay,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+608,Marion,Jude,F,9 Impasse des Hortensias,0,31120,Pinsaguel,,FR,titou_87,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+609,OLIVIA,PERRIER,F,1 RUE TERME,0,69001,LYON,,FR,oliwonderm,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+610,Azza,Fehri,F,67 Avenue de Paris,"2e étage, fond gauche",94160,Saint-Mandé,Île-de-France,FR,a_f-2,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+611,Sandra,Chemsi,F,94 rue Jean Mermoz,0,78600,Maisons Laffitte,,FR,sanchone,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+612,Alexandra,Durand,F,3 bis route de clisson,0,44690,la haie fouassiere,,FR,ad4472,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+613,katell,oilleau,F,6 Carrer de l'alba,0,66740,Laroque-des-Albères,Occitanie,FR,ktl22293556,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+614,Tiara,Dewi,F,5 Rue de Magdebourg,Bâtiment Cour,75116,Paris 16e Arrondissement,Île-de-France,FR,tiaratkd,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+615,Elodie,Rineau,F,Tournelievre,0,85600,La Guyonnière,Pays-de-la-Loire,FR,elodierineau,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+616,Séverine,Wilson,F,76 Rue Damrémont,code: 12b98,75018,Paris 18e Arrondissement,Île-de-France,FR,severine-wilson92,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+617,Marine,Touati,F,8 Rue d'Alleray,0,75015,Paris 15e Arrondissement,Île-de-France,FR,touati-marine,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+618,Dany,Lam,H,26 rue Deguingand,0,92300,Levallois Perret,,FR,dnylam,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+619,Clémence,Michel,F,70 Rue Ponsardin,0,51100,Reims,Grand-Est,FR,clemence-michel,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+620,Claire,Costes,F,5 Rue Bertrand Geslin,0,44000,Nantes,Pays-de-la-Loire,FR,claire-costes,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+621,philippine,vuillemey,F,197 cours lafayette,0,69003,Lyon,Auvergne-Rhône-Alpes,FR,phil-vuil,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+622,Camille,DARCY,F,58 Rue du Faubourg Saint-Martin,0,75010,Paris 10e Arrondissement,Île-de-France,FR,camilledarcy65,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+623,Floriane,ANDREAS,F,9 Rue de la Ferme de Belleville,0,91190,Gif-sur-Yvette,Île-de-France,FR,floriane-andreas,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+624,Paddy,PASCOT,H,20 Rue Jean Baptiste Charcot,0,91600,Savigny-sur-Orge,Île-de-France,FR,paddypascot,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+625,odile,descroix,F,81 rue jean guehenno,0,35000,RENNES,,FR,odescroix,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+626,Emilie,Senez,F,23 rue madame carré de malberg,0,57050,Lorry les metz,,FR,emilie_senez,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+627,Laura,Frantz,F,47 Rue Léon Frot,0,75011,Paris 11e Arrondissement,Île-de-France,FR,lpsftz,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+628,Laura,Guérin,F,17 Allée François Bonamy,0,49240,Avrillé,Pays-de-la-Loire,FR,zdeb-2,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+629,Florie,Le Bloas,F,95 Avenue d'Italie,0,75013,Paris 13e Arrondissement,Île-de-France,FR,loulebloas,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+630,Frere,Frère,H,13 Rue de Mogador,0,75009,Paris 9e Arrondissement,Île-de-France,FR,thib-frere,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+631,Loise,Moreel,F,7 Cite Adrienne,0,75020,Paris,,FR,loise_mrl,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+632,Graziella,Naegele,F,18 Rue des Iris,0,85670,Palluau,Pays-de-la-Loire,FR,grazou-bina1,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+633,Juliette,Elie-Lefebvre,F,10 Rue Albert Dammouse,0,92310,Sèvres,Île-de-France,FR,j-o-o-l-s,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+634,Camille,BARROSO,F,36 Allée de Guyenne,0,33170,Gradignan,Nouvelle-Aquitaine,FR,camille-boesse-latimier,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+635,Aurélie,Chapotin,F,11 rue de Genève,0,91300,Massy,,FR,yuzumi,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+636,Florian,Bataille,H,229 bis Rue Marcadet,0,75018,Paris 18e Arrondissement,Île-de-France,FR,bataille-florian,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+637,Cécile,Bissonnier,F,1 Impasse des Vergers,Appartement 34,31100,Toulouse,Occitanie,FR,cebi31,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+638,Lena,Guardia,F,142 Route des Mottes,0,40230,Saubrigues,Nouvelle-Aquitaine,FR,lenaguardia,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+639,Vanina,Lanfranchi,F,3 rue marcel pagnol,0,92500,RUEIL MALMAISON,92,FR,vgilv,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+640,Pauline,COLRAT,F,21 Rue Guy Moquet,0,75017,Paris 17e Arrondissement,Île-de-France,FR,pauline-colrat,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+641,Amélie,Moutiers,F,125 Rue de Picpus,0,75012,Paris 12e Arrondissement,Île-de-France,FR,moutiersamelie,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+642,Valentine,Landes,F,6 Rue Serane,0,34000,Montpellier,Occitanie,FR,valentine-landes-co,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+643,Inès,Jousset,F,29 Rue Chevert,0,75007,Paris 7e Arrondissement,Île-de-France,FR,insjou,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+644,Agathe,Hennequart,F,19 rue du Pâtis Saint Martin,0,02400,Château Thierry,,FR,flusttershy,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+645,Marie,Arribard,F,11 bis Rue Chaligny,0,75012,Paris 12e Arrondissement,Île-de-France,FR,marie-arribard,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+646,Antoine,Guillard-Cozigon,H,223 Avenue de la République,0,33200,Bordeaux,Nouvelle-Aquitaine,FR,antoineguillardcozigon,669624.0,ADHÉSION À VIE - Duo,1.0,78.0
+647,Jessica,Missongo,F,49 Rue de Bagneux,0,92330,Sceaux,Île-de-France,FR,makakou,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+648,Thierry,Beck,H,53 Rue de Valmy,0,59100,Roubaix,Hauts-de-France,FR,titirbx,669624.0,ADHÉSION À VIE - Duo,1.0,78.0
+649,Elodie,Munsch,F,47 Avenue du Maréchal Joffre,0,94170,Le Perreux-sur-Marne,Île-de-France,FR,e-munsch44,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+650,Estelle,Brehon,F,38 Rue Tiquetonne,"71b92, 35a46, dernier étage face",75002,Paris 2e Arrondissement,Île-de-France,FR,estellebrehon-0,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+651,Manon,Videau,F,7 rue Tournefort,0,75005,Paris 5e Arrondissement,Île-de-France,FR,manon-videau33,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+652,Agathe,Marechal,F,244 Rue du Faubourg Saint-Antoine,0,75012,Paris 12e Arrondissement,Île-de-France,FR,marechal-agathe,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+653,Eugénie,Simons,F,Avenue du Venezuela 10,0,1000,Ville de Bruxelles,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest,BE,eug-simons,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+654,Laure,Garreau,F,10 Rue Georgette Agutte,0,75018,Paris 18e Arrondissement,Île-de-France,FR,laure-garreau,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+655,Andréa,Hévin,F,17 Rue Paul Riquet,Frontignan plage,34110,Frontignan,Occitanie,FR,andreahevin1,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+656,Chloe,Bogner,F,13 rue de steinkerque,0,75018,Paris,,FR,chloebogner,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+657,Thomas,Broutier,H,24 Rue du Razat,0,07430,Saint-Cyr,Auvergne-Rhône-Alpes,FR,toothgip,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+658,Gabrielle,Mercklé,F,2 Rue Auguste Valats,Batiment N Appt 33,31300,Toulouse,Occitanie,FR,gabriellemontagne,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+659,Danielle,MARIE,F,104 RUE DE L HOTEL GIFFARD,0,50110,TOURLAVILLE,,FR,supermario50,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+660,Salomé,LALA,F,5 rue Massenet,0,77360,Vaires-sur-Marne,,FR,salomel,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+661,Véronique,ROGER,F,23 Chemin Fuon Dou Magistre,résidence Jardins d’Éden Bat B,06340,La Trinité,Provence-Alpes-Côte d'Azur,FR,rogerveronique,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+662,Lauriana,Gaze,F,Köpenicker Straße 10,0,10997,Berlin,Berlin,DE,lauriana-gaze,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+663,Delphine,Lemay,F,14 Rue Molière,0,92400,Courbevoie,Île-de-France,FR,delle810,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+664,Mathilde,Montourcy,F,3 Rue Antoine de Lavoisier,0,78180,Montigny-le-Bretonneux,Île-de-France,FR,montourcy-mathilde,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+665,Angelina,Mariau,F,16 rue de la sirène,0,44300,Nantes,France,FR,cervolent,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+666,Ludivine,Boulate,F,133 Rue Henri Dunant,0,95120,Ermont,Île-de-France,FR,lauriane-fargeot,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+667,Lauriane,Fargeot,F,35 Rue de Versailles,0,78790,Septeuil,Île-de-France,FR,lauriane-fargeot,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+668,Audric,FARGEOT,H,31 Rue Saint-Martin,3ème maison (juste avant le parking),78410,Bouafle,Île-de-France,FR,audric-fargeot,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+669,Léa,André,F,78 Rue Mouneyra,0,33000,Bordeaux,Nouvelle-Aquitaine,FR,lea-andre8,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+670,Maïlys,Laurendeau,F,42 Rue Yves Farge,0,69520,Grigny,Auvergne-Rhône-Alpes,FR,malou-laurendeau,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+671,Olivier,de Grossouvre,H,15 Rue du Plein Midi,0,17137,Marsilly,Nouvelle-Aquitaine,FR,odegrossouvre,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+672,Martin,MEZIERES,H,1 Rue de Bercy,Appartement 19,75012,Paris 12e Arrondissement,Île-de-France,FR,martin-mezieres,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+673,sandra,garric,F,21 bis rue Marie edmée,0,77500,chelles,,FR,totos74,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+674,Fanny,Le Gac,F,5 rue de Neuilly,RDC,93200,Saint-Denis,,FR,fannylegac,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+675,Laure,Delaire,F,3 Place Bertone,0,69004,Lyon,,FR,lauredelaire15e1b92d75564f46,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+676,Marion,Gaulin,F,62 Boulevard de Reuilly,25B44,75012,Paris 12e Arrondissement,Île-de-France,FR,mgaulin,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+677,Aurelien,LAURENT,H,17 Le Clos des Vieux Chênes,0,44260,Savenay,Pays-de-la-Loire,FR,laurent-aurelien2016,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+678,alexandra,thomas,F,36 bis route de rennes,0,35310,Mordelles,,FR,alethomas,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+679,Sara,Lambany,F,"Chez Lanoue Quentin
+
+35 place des rossignols",0,77550,Moissy-Cramayel,,FR,libby_shouwart,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+680,Bastien,Lyachenko,H,436 route de la champanaise,0,74410,Duingt,,FR,lyachenko-bastien,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+681,Eric,Clairfond,H,100 Rue du Château,0,92100,Boulogne-Billancourt,Île-de-France,FR,eclairfond,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+682,Delphine,Horellou,F,12 Allée Georges Recipon,0,75019,Paris 19e Arrondissement,Île-de-France,FR,delphinehorellou,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+683,Julie,regazzacci,F,7 Impasse Maubec,0,33000,Bordeaux,Nouvelle-Aquitaine,FR,julierega,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+684,S et T,Cayol,H,363 Avenue de Fabron,0,06200,Nice,Provence-Alpes-Côte d'Azur,FR,leo-marjon51o,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+685,Henri,BEDEL DU TERTRE,H,2 ter Cours Richard Vitton,0,69003,Lyon 3e Arrondissement,Auvergne-Rhône-Alpes,FR,vole_terre,669624.0,ADHÉSION À VIE - Duo,1.0,78.0
+686,Satsuky,Urbain,,Avenue Isidore Geyskens 98,0,1160,Auderghem,Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest,BE,tsutsu22,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+687,Paola,Malinverni,F,16 Rue Guillaume Bertrand,0,75011,Paris 11e Arrondissement,Île-de-France,FR,pao-mal,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+688,Yann,Pichot,H,24 Rue de Paris,0,94340,Joinville-le-Pont,Île-de-France,FR,yann-pichot28,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+689,Denis R,Chansolme,H,7 Villa Jean Chieze,0,92210,Saint-Cloud,Île-de-France,FR,ripopette,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+690,Lucas,Frémanger,H,23 rue des Romains,0,68510,Rantzwiller,,FR,luc891,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+691,Geoffrey,Chansolme,H,7 Villa Jean Chieze,0,92210,Saint-Cloud,Île-de-France,FR,geoffreychansolme,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+692,Justine,Migard,F,32 Rue de la Corvée,0,25000,Besançon,Bourgogne-Franche-Comté,FR,j-migard,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+693,Bathiste,SEGRETAIN,F,12 Rue Madame de Sévigné,0,53000,Laval,Pays-de-la-Loire,FR,segretain-bathiste,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+694,Angèle,MIGNONAC,F,1A Rue de la Musau,0,67203,Oberschaeffolsheim,Grand-Est,FR,apmignonac,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+695,Hélène,ROUAULT,F,163 rue de charonne,0,75011,PARIS,,FR,hrouault,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+696,Anais,PREVOT,F,567 rue de Paris,0,62170,ECUIRES,,FR,nisstru,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+697,Barbara,Boscu,F,3 Allée des Violettes,0,94310,Orly,Île-de-France,FR,bboscu,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+698,Laurent,Martelli,H,75 Rue de Strasbourg,0,94300,Vincennes,Île-de-France,FR,lmartelli,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+699,Axelle,Olagne,F,101 Rue des Couronnes,0,75020,Paris 20e Arrondissement,Île-de-France,FR,axelleoao,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+700,Mathilde,Niaussat,F,Lieu dit La Gravette,D6089,24400,Sourzac,Nouvelle-Aquitaine,FR,matbrille24,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+701,Laurent,MODOLO,H,16 Route de Pouru aux Bois,0,08110,Escombres-et-le-Chesnois,Grand-Est,FR,modolo-laurent,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+702,Aurélie,POMMAREL,F,Rue de Paris,Pavillon 44,91570,Bièvres,Île-de-France,FR,aureliejoly-0,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+703,Claire,Jouvray,F,27 Rue de l'Avenir,0,92160,Antony,Île-de-France,FR,claire-jouvray,669624.0,ADHÉSION À VIE - Duo,1.0,78.0
+704,Jérémy,Lévêque,H,46 Rue de la Butte aux Cailles,0,75013,Paris 13e Arrondissement,Île-de-France,FR,leeveque-jeremy,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+705,Xuan,Nguyen,F,199 rue de tolbiac,0,75013,Paris,,FR,nxd,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+706,Cristel,Bonnet,F,3 Impasse Ernest Ferroul,0,34120,Pézenas,Occitanie,FR,cbonnet23,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+707,Stéphanie,Pistre,F,4 Rue de la Fosse,0,47320,Clairac,Nouvelle-Aquitaine,FR,escudero_stephanie,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+708,sophie,clist,F,73 Rue des Rosiers,0,93400,Saint-Ouen,Île-de-France,FR,sophie-clist,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+709,Margaux,d'Orchymont,F,28 Rue Gabriel Pierné,0,57000,Metz,Grand-Est,FR,margaux-dorchymont,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+710,Romeo,LAGONOTTE,H,1 Allée Jules Sandeau,0,36000,Châteauroux,,FR,romeo_lagonotte,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+711,Nadine,D'Orchymont,F,56 Avenue André Payer,0,08200,Floing,Grand-Est,FR,n-dcht,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+712,Jérémy,Puyau,H,84 Rue Didot,BP19,75014,Paris 14e Arrondissement,Île-de-France,FR,j-puyau,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+713,Arnaud,Goelz,H,Chemin des Châtaigners 8,0,1426,Concise,Vaud,CH,arnaud2,669624.0,ADHÉSION À VIE - Duo,1.0,78.0
+714,Isabeau,Florentin,F,53 Rue Cauchoise,2e porte ( coulissante) fd de la cour à gche.1 etg gch,76000,Rouen,Normandie,FR,isabeauflorentin,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+715,Khadija,Andjar,F,42 avenue alexandre,0,92000,Nanterre,,FR,kbricole,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+716,Floriane,Auffret,F,9 Rue du Port,0,59800,Lille,Hauts-de-France,FR,f1orian3,669624.0,ADHÉSION À VIE - Duo,1.0,78.0
+717,marthe,prado,F,3 Route de Mazières,0,37130,Cinq-Mars-la-Pile,Centre-Val de Loire,FR,martuchette,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+718,Manon,Séné,F,29 Rue Henri Loux,0,67200,Strasbourg,Grand-Est,FR,manonsene-0,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+719,Marta,Moszynska,F,11 avenue des Amériques,0,17000,La Rochelle,Nouvelle-Aquitaine,FR,mmoszynska,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+720,Emanuelle,Moussafir,F,5 Rue du Vertbois,0,75003,Paris 3e Arrondissement,Île-de-France,FR,emoussafir,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+721,Sophie,Ramin,F,8 Rue Jules Ferry,0,06240,Beausoleil,Provence-Alpes-Côte d'Azur,FR,sophieramin,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+722,Manon,Dutel,F,4bis Rue de la Poste,0,74000,Annecy,Auvergne-Rhône-Alpes,FR,manon-dutel-2,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+723,Valentin,Bourdon,H,60 Rue de Marseille,4ème étage,69007,Lyon 7e Arrondissement,Auvergne-Rhône-Alpes,FR,valentinbourdon,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+724,Marie,Bourgouin,F,10 rue du Port,0,72230,Arnage,,FR,mariarnage,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+725,Morgane,Leroy,F,2 Rue de la Haye,0,33320,Le Taillan-Médoc,Nouvelle-Aquitaine,FR,mleroy2610,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+726,Claudia,Perini,F,Rue du Château 192,Apt. B1,01170,Chevry,Auvergne-Rhône-Alpes,FR,clap850304,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+727,Guillaume,Bérat,H,"23 rue Levert
+
+(Atelier n*7)",0,75020,Paris,,FR,guillaumeberat,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+728,LACHAUME,ANGELIQUE,F,69 b Rue de la Chatonnerie,app 2 bâtiment A,86000,Poitiers,Nouvelle-Aquitaine,FR,angeliqujj,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+729,Morgane,Michel,F,64 Grande Rue,0,91510,Lardy,Île-de-France,FR,ganou81,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+730,Isabelle,Moquet,F,10 rue de la Haie Joulain,Saint Sylvain d'Anjou,49480,Verrières-en-Anjou,Pays-de-la-Loire,FR,isbabel2000,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+731,Isabelle,Mosser,F,46 rue Vivaldi,Le hameau de Lydie,13370,Mallemort,,FR,isabelle-mosser,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+732,Henri,Perrette,H,18 Impasse Émile,0,45800,Saint-Jean-de-Braye,Centre-Val de Loire,FR,straid45,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+733,Catherine,Royer,F,17 Rue des Papillons,0,93100,Montreuil,Île-de-France,FR,catherinepretat,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+734,,,F,,0,,,,,madelinecollard,,Don,1.0,15.0
+735,Rosine,Gallerne,F,58 Boulevard Diderot,0,75012,Paris 12e Arrondissement,Île-de-France,FR,gallernerosine,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+736,Laure,Masse,F,9 Rue Pihet,Bat B,75011,Paris 11e Arrondissement,Île-de-France,FR,laure-cecile-masse,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+737,Chrystal,Guyon,F,Rue Philippe-Plantamour 45,chez Marine Niarfait,1201,Genève,Genève,CH,chrystal-guyonfig,655971.0,Adhésion à vie - Tarif réduit,3.0,117.0
+738,Diana,Lourenço LOPES,F,7 rue de la pastorale d'issy,0,92130,issy les moulineaux,,FR,dianalourenc,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+739,Mélanie,Leroy,F,18 Rue René Bernard,0,80850,Berteaucourt-les-Dames,Hauts-de-France,FR,melaniemarmotte,669620.0,ADHÉSION À VIE 🤩,1.0,39.0
+740,Lauriane,Sauzeat,F,24 Rue Victorien Sardou,0,69007,Lyon 7e Arrondissement,Auvergne-Rhône-Alpes,FR,lauriane-sauzeat,655971.0,Adhésion à vie - Tarif réduit,5.0,195.0
+741,Catherine,Bourrier,F,77 avenue de Paris,0,95550,Bessancourt,,FR,cbourrier,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+742,Camille,Orain,F,71 Rue Saint-Maur,Boîte aux lettres 15,75011,Paris 11e Arrondissement,Île-de-France,FR,camilleorain,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+743,Aurélia,Cognée,F,28 rue de Gascogne,0,92500,RUEIL Malmaison,,FR,aurelia-cognee,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+744,Christine,Eskandar,F,15 Avenue Jean Jaurès,Immeuble Quai de la Loire - Escalier A,75019,Paris 19e Arrondissement,Île-de-France,FR,christine-eskandar,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+745,Antoine,Barthelmes,H,15 Impasse de l'Abbaye,0,74270,Sallenôves,Haute-Savoie,FR,istart,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+746,Fanny,Albertelli,F,3 Passage Saint-Pierre Amelot,La Conciergerie Solidaire,75011,Paris 11e Arrondissement,Île-de-France,FR,fannyalbertelli,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+747,Noemi,Cortizas,F,107 Rue Pierre Semard,Apart 16 digicode 5613A,92320,Châtillon,Île-de-France,FR,albacormar,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+748,Florian,Rigaud,H,5 Rue Desplats,0,33400,Talence,Nouvelle-Aquitaine,FR,f-rigaud,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+749,Magali,Barbero,F,15 Rue Marengo,Bat B1,13006,Marseille 6e Arrondissement,Provence-Alpes-Côte d'Azur,FR,mag-b27,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+750,Julie,Mer,F,HAMEAU DE SOLORE,0,07340,Thorrenc,,FR,juliemer07,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+751,Johanna,Cordeiro,F,3 Allée de la Taillanderie,0,38430,Moirans,Auvergne-Rhône-Alpes,FR,johannacordeiro,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+752,Stéphanie,Daireaux,F,10 Rue Mozart,0,92330,Sceaux,Île-de-France,FR,stephanie-daireaux,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+753,Camille,SALANSON,F,1 rue magaud,0,13007,Marseille,,FR,millette,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+754,Romain,Dahan,H,11 Montée Desambrois,0,06000,Nice,Provence-Alpes-Côte d'Azur,FR,roumainfranceschi,655971.0,Adhésion à vie - Tarif réduit,2.0,78.0
+755,Marine,JUILLARD,F,62 Rue Meslay,0,75003,Paris 3e Arrondissement,Île-de-France,FR,marinejuillard,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+756,Justine,Bovo,F,1289 Route de Montremont,Les étouvières,74230,Thônes,Auvergne-Rhône-Alpes,FR,bovojustine,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+757,Celine,Caparros,F,22 rue des vergers,0,77310,Saint fargeau ponthierry,,FR,cellinecaparros,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+758,Laure,Beaulé,F,188 Avenue de Fronton,Bâtiment A appartement 35,31200,Toulouse,Occitanie,FR,laurebeaule,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+759,Tim,Frager,H,12 Impasse des Bergeronnettes,0,40130,Capbreton,Nouvelle-Aquitaine,FR,timfrager,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+760,Solange,THOMA,F,19 Rue de l'Allée Verte,0,41600,Lamotte-Beuvron,Centre-Val de Loire,FR,solthoma,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+761,Simon,BEQUET,H,14 Avenue Leclerc,0,69007,Lyon 7e Arrondissement,Auvergne-Rhône-Alpes,FR,sb-56,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+762,Ondine,Frager,F,16 Avenue des Acacias,Appartement 1,40130,Capbreton,Nouvelle-Aquitaine,FR,ondine-frager,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+763,Didier,Carpouron,H,Impasse du Dérochau 4,0,1584,Salavaux,,CH,d_carpouron,656196.0,ADHÉSION À VIE - Duo,1.0,99.0
+764,Olivia,Macouin,F,21 rue bourgelat,422. Entrée livraison 5 rue eugene renault. 2468. 2e,94700,Maisons alfort,,FR,macouin,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+765,David,Fillault,H,36 Rue Jean Verspieren,0,87000,Limoges,Nouvelle-Aquitaine,FR,dav2609,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+766,Estelle,Rivero,F,123 Rue Commandant Mages,0,13001,Marseille 1er Arrondissement,Provence-Alpes-Côte d'Azur,FR,estelle-rivero,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+767,Julie,Mafrand,F,17 Avenue de Saxe,0,75007,Paris 7e Arrondissement,Île-de-France,FR,juliemafrand,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+768,Ludovic,Bidet,H,12 Rue Henri,0,94000,Créteil,Île-de-France,FR,ludovicbidet,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+769,Damien,Keller,H,34 Rue du Foron,0,74100,Ville-la-Grand,Auvergne-Rhône-Alpes,FR,kellerdamien,655971.0,Adhésion à vie - Tarif réduit,4.0,156.0
+770,Cecile,Dorsemaine,F,37 Avenue Paul Delorme,0,69580,Sathonay-Camp,Auvergne-Rhône-Alpes,FR,cecilehome,656196.0,ADHÉSION À VIE - Duo,1.0,99.0
+771,MARIE,GAVANON,F,450 Rue des Fougères,0,71570,Saint-Symphorien-d'Ancelles,Bourgogne-Franche-Comté,FR,stish,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+772,Yvette,Mailliet le Penven,F,"25, rue Lamartine",0,94500,Champigny sur Marne,,FR,yvette-mailliet,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+773,Eva,Chapalain,F,Roch Glaz,0,29800,Saint Divy,,FR,evachapalain,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+774,Justine,Alemany,F,23 Rue du Pré Perche,0,35000,Rennes,Bretagne,FR,alemany-justine,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+775,Simon,Bidegain,H,19 Rue de la Cloche Verte,Etage 1,16000,Angoulême,Nouvelle-Aquitaine,FR,ducsim33,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+776,Salomé,Bry,F,7 Allée de la Marche,0,92380,Garches,Île-de-France,FR,salomebry,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+777,MELANIE,BAUCHART,F,14 RUE DES JARDINS,0,65170,VIELLE AURE,,FR,desidrea,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+778,chantal,PETILLAT,F,La Tuilerie,0,03500,Châtel-de-Neuvre,Auvergne-Rhône-Alpes,FR,latuilerie03500,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+779,Delphine,Valognes,F,4 chemin bat bâches,0,64800,Asson,,FR,del_64,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+780,Emmanuelle,Bodu,F,99 Avenue de la République,Escalier 7,94800,Villejuif,Île-de-France,FR,emmanuelle-bodu94,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+781,Perrine,BOSSAT,F,18 Rue Plisson,0,94160,Saint-Mandé,Île-de-France,FR,katyperrine,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+782,Caroline,Degroote,F,25 avenue des troubadours,0,31750,Escalquens,,FR,carodegroote,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+783,Léa,Valeux,F,164 Allée de Combarette,Bâtiment F,74570,Groisy,Auvergne-Rhône-Alpes,FR,lea-valeux,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+784,Chloé,Doisy,F,1 lotissement beauregard,Lotissement beauregard,25115,Pouilley-les-Vignes,Bourgogne-Franche-Comté,FR,cloclodoisy,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+785,RENAUD,Benjamin,H,89 Quai Charles de Gaulle,0,69006,Lyon 6e Arrondissement,Auvergne-Rhône-Alpes,FR,renaudb-0,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+786,Juliane,Trianon,F,245 CHEMIN DU CHATEAU,0,13119,ST SAVOURNIN,-,FR,pamplemousses4,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+787,Laura,Guesnier,F,384 Chemin de la Palunaque,0,84160,Cucuron,Provence-Alpes-Côte d'Azur,FR,lauraguesnier3,655971.0,Adhésion à vie - Tarif réduit,2.0,78.0
+788,Marion,RAVUT,F,52 Rue de Clignancourt,0,75018,Paris 18e Arrondissement,Île-de-France,FR,marion-ravut,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+789,Amalya,Delepierre,F,4 Rue de Romainville,0,93260,Les Lilas,Île-de-France,FR,amldel,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+790,Patrick,JOYEZ,H,3 Avenue Henri Geoffroy,0,77240,Cesson,Île-de-France,FR,joyez-0,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+791,SIMON,BERTHET-BONDET,H,53 Cours de la Martinique,0,33000,Bordeaux,Nouvelle-Aquitaine,FR,simonbbo,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+792,Caroline,LEPOINT,F,58 rue Marcel Cerdan,0,07500,Guilherand-Granges,Rhône-Alpes,FR,camoon,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+793,Gwenaelle,Presti,F,193 avenue Goerges Pompidou,Maison 212,13600,La ciotat,,FR,gwenpresti,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+794,Marie,Quement,,32 Rue de Brazza,0,92800,Puteaux,Île-de-France,FR,quement-m,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+795,Pauline,D'Allaines,F,16 Rue Jacques Renouvin,0,34500,Béziers,Occitanie,FR,pauline-d-allaines,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+796,Elisabeth,Perraudin,F,2 Rue du Bicentenaire,0,74960,Annecy,Auvergne-Rhône-Alpes,FR,lisaperraudin,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+797,Valérie,Valdivieso,F,15 avenue de la résistance,Appartement 103,93100,Montreuil,,FR,valvaldi,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+798,Marie,Versini,F,22 Rue de Montalivet,0,07100,Annonay,Auvergne-Rhône-Alpes,FR,marieversinicfbece6ef2bf4fb2,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+799,Catherine,LAGAHUZERE,F,2 impasse des Boudoubans,0,33640,PORTETS,,FR,lagahuzere,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+800,Manon,Boloch,F,11 Avenue Coriolan,A13,28110,Lucé,,FR,mann28,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+801,Sara,Bourdon,F,54 rue daguerre,0,75014,Paris,,FR,sbourdon13,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+802,Catherine,Ricard,F,197 Route du Chef-Lieu,0,73410,Saint-Ours,Auvergne-Rhône-Alpes,FR,4inericard,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+803,Hugues,Loy,F,"531 avenue de Dunkerque, appartement 104",0,59160,59160 - LOMME LILLE,,FR,hhugues-la,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+804,Sebastian,LUCHE,F,Rue aux Loups,0,45000,Orléans,Centre-Val de Loire,FR,luche-sebastian,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+805,Marion,Deschamps,F,28 bis Rue Calmels Prolongée,0,75018,Paris 18e Arrondissement,Île-de-France,FR,marion-deschamps-guyomarch,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+806,,,F,,0,,,,,vtoletti,,Don,1.0,1.0
+807,evelyne,Royer,F,39 Rue de Picpus,0,75012,Paris 12e Arrondissement,Île-de-France,FR,evelynesscc65,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+808,Alexia,VINDRET,F,74 Chemin de Grange Neuve,0,74570,Fillière,Auvergne-Rhône-Alpes,FR,alexia-vindret,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+809,Bernard,BEAUFILS,H,8 RUE DU PIC DU MIDI,0,65400,ARGELES-GAZOST,,FR,littoral,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+810,Maeva,MASSANELLA,F,4 RUE DESCOMBES,1 er étage sur cour,75017,PARIS,Île-de-France,FR,maevanan,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+811,Robin,Drosson,H,13 Rue Cavallotti,0,75018,Paris 18e Arrondissement,Île-de-France,FR,robin-drosson,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+812,Julien,Cazabat,H,5 rue des Eglantines,0,64400,Agnos,,FR,cazapan,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+813,Damien,Michalland,H,943 Rue Lamartine,0,07340,Champagne,Auvergne-Rhône-Alpes,FR,damien-michalland,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+814,Juliette,Auger,F,13 Rue des Remises,0,94100,Saint-Maur-des-Fossés,Île-de-France,FR,julaterre,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+815,Cécile,GENDRON,F,42 Rue de la Mairie,0,37520,La Riche,Centre-Val de Loire,FR,cecilou-gendron,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+816,Nathalie,BASTIEN,F,Penvern,0,56540,Le Croisty,Bretagne,FR,nabastien,,Don,1.0,6.0
+817,Camille,Baudin,F,14 Avenue Raspail,Apt 410,94250,Gentilly,Île-de-France,FR,enftjsp,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+818,Marinette,pasquier,F,Rue du Mas de Lucet,0,46090,Saint Géry-Vers,Occitanie,FR,marinetteva,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+819,Mathieu,AMIOT,H,29 Rue Diderot,0,78100,Saint-Germain-en-Laye,Île-de-France,FR,mathieu-amiot,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+820,Anthony,Piquet,H,19 Rue des 3 Bornes,45179 porte bois tout au fond sonnette ring,75011,Paris 11e Arrondissement,Île-de-France,FR,anthonypiquet,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+821,Valerie,Normand,F,207 allée du menthonay,0,74350,Menthonnex-en-Bornes,,FR,valerien11,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+822,Nathalie,Braha-Lonchant,H,158 Route de la Croze,0,07100,Roiffieux,Auvergne-Rhône-Alpes,FR,nathbraha,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+823,Gilbert,RIGOT,F,13 Allée de la Poisnière,0,50300,Saint-Martin-des-Champs,Normandie,FR,gilbert-rigot,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+824,Sophie,Gallas,F,2 Impasse de la Butte,0,35190,La Chapelle-aux-Filtzméens,Bretagne,FR,gallas-sophie,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+825,Alexandra,Gremmel,F,14 Route du Romarin,0,17120,Meursac,Nouvelle-Aquitaine,FR,agremmel,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+826,,,F,,0,,,,,roxane-makpopan,,Don,1.0,25.0
+827,Nathalie,Sochard,F,5 rue du bossard,0,85400,Chasnais,,FR,nat85400,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+828,Yann,Barraud,H,87 Boulevard Maurice Berteaux,0,78420,Carrières-sur-Seine,Île-de-France,FR,yann-barraud,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+829,Romain,Renault,H,11 impasse sous la tour,0,92160,Antony,,FR,re_romain,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+830,Eryn,Malonga,F,4 avenue du Général Leclerc,0,77500,Chelles,Seine et Marne,FR,erynmna,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+831,VALERIE,DOMONT,F,89 RUE DU MOULIN DE PIERRE,0,80650,VIGNACOURT,,FR,domont-2,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+832,marie,bazin,F,"7 Rue De La Bonneterie,",0,28120,ILLIERS COMBRAY,-,FR,scribouille,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+833,Aline,Bertrand,F,107 avenue Foch,0,76600,Le Havre,,FR,alinebertrand,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+834,Gilbert,Lenglet,H,260 Rue du Mas de Regardet,0,46500,Gramat,Occitanie,FR,greneyves,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+835,Claire,Goulaieff,F,33 rue des buissons,0,57160,Scy Chazelles,,FR,virginiegoulaieff,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+836,Elodie,Dauger,F,54 rue Vasco de Gama,0,75015,Paris,,FR,elodiered,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+837,Matthieu,Bienfait,H,255 Boulevard Bazeilles,0,83000,Toulon,Provence-Alpes-Côte d'Azur,FR,matthieu-bienfait,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+838,Matthieu,Bienfait,,255 Boulevard Bazeilles,0,83000,Toulon,Provence-Alpes-Côte d'Azur,FR,matthieu-bienfait,,Don,1.0,11.0
+839,Anne lise,Poutrel vagner,F,20 RUE DE MARGNOLLES,0,69300,CALUIRE-ET-CUIRE,Madame,FR,alvagner,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+840,Corine,Plantard,F,143 Boulevard Lefebvre,0,75015,Paris 15e Arrondissement,Île-de-France,FR,corine-plantard,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+841,ERIC,SCHOESER,H,23 Rue de Volmunster,0,57720,Hottviller,Grand-Est,FR,czendoo,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+842,CELINE,ROCHAY,F,202 D Impasse du Château,0,91130,Ris-Orangis,Île-de-France,FR,celinerochay,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+843,David,NADIAMA,H,2 rue du 19 mars 1962,0,18000,Bourges,,FR,nwadecoco,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+844,delphine,valtier,F,1 Chemin des Lames,0,89630,Saint-Germain-des-Champs,Bourgogne-Franche-Comté,FR,valtier-delphine,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+845,Ophélie,Plantard,F,50 rue de Vouillé,0,75015,PARIS,,FR,ophelie-3,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+846,,,,,0,,,,,cdarblet,,Don,1.0,1.0
+847,Celine,Bellanca,F,42 rue saint Jacques,0,13006,Marseille,,FR,bellanca,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+848,Michael,LAMIABLE,H,85 Boulevard Félix Martin,ATELIA,83700,Saint-Raphaël,Provence-Alpes-Côte d'Azur,FR,m83120,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+849,Pauline,Duclos,F,13 Rue du Cherche-Midi,0,75006,Paris 6e Arrondissement,Île-de-France,FR,p-ducloslenoir,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+850,MAUD,quentien,F,25 Impasse Batellerie,0,31790,Saint-Jory,Occitanie,FR,maudmacgoudhon,655971.0,Adhésion à vie - Tarif réduit,5.0,195.0
+851,Eloise,Chabon,F,"4 rue du colonel fabien
+B212",0,94460,Valenton,,FR,manikou,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+852,Laura,Frantz,F,47 Rue Léon Frot,0,75011,Paris 11e Arrondissement,Île-de-France,FR,lpsftz,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+853,Yann,PELISSIER,H,19 rue du cerf,0,68680,Kembs,,FR,ypelissier,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+854,Eva,Dupenloup Gobbo,F,222 Route du Chef Lieu,Les lupins bâtiment c numéro 14,74350,Allonzier-la-Caille,Auvergne-Rhône-Alpes,FR,evadupenloup,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+855,Eva,Pinto,F,5 Avenue Ferdinand Janvier,0,07100,Annonay,Auvergne-Rhône-Alpes,FR,pinto-eva31,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+856,Bénédicte,Trabuc,F,372B Rue d'Endoume,0,13007,Marseille 7e Arrondissement,Provence-Alpes-Côte d'Azur,FR,benedicte-trabuc,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+857,Victor,Cabanas,F,52 Rue Henri Barbusse,0,92110,Clichy,Île-de-France,FR,vicocab,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+858,Coralie,GALTIER-ROSE,F,Le Vernerin,0,73220,Saint-Georges-d'Hurtières,Auvergne-Rhône-Alpes,FR,rosecoralie,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+859,Ingrid,Milcent,F,80 Chemin des Roches,0,38410,Saint-Martin-d'Uriage,Auvergne-Rhône-Alpes,FR,ingrid-milcent,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+860,Julie,Martinez,F,14 b Rue des Minimes,0,75003,Paris 3e Arrondissement,Île-de-France,FR,julie-martinez,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+861,Mélie,POUSTAY-LING,,3 Allée du Bois des Chênes,0,94370,Sucy-en-Brie,Île-de-France,FR,melicorne,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+862,Christophe,Dvisé,H,Elegemstraat 57,0,1700,Dilbeek,Vlaanderen,BE,christophe-devise,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+863,Christophe,Dvisé,,Elegemstraat 57,0,1700,Dilbeek,Vlaanderen,BE,christophe-devise,,Don,1.0,11.0
+864,Lorée,Marie,F,18 Rue Philippe de Champaigne,0,78114,Magny-les-Hameaux,Île-de-France,FR,maflotho,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+865,Sandrine,Fourn,F,3 rue du Guirbaden,0,67800,BISCHHEIM,,FR,pc23069,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+866,Anne,Manfrin,F,50C Rue des Foisses,Bâtiment C,63170,Aubière,Auvergne-Rhône-Alpes,FR,anne-manfrin,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+867,Elodie,Jan,F,51 avenue de grasse,Les pins D,06800,Cagnes sur mer,,FR,elodie_jan_06,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+868,Marie Gabrielle,Sorin,F,32 rue de la Rochefoucauld,0,75009,Paris,,FR,mgsorin,656196.0,ADHÉSION À VIE - Duo,1.0,99.0
+869,Clémentine,Fouin,F,39 avenue de la gare,0,49290,Chalonnes sur Loire,,FR,cleemf,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+870,Chloé,Roussin,F,48 Route de Grandchamp-Des-Fontaines,L'Épau,44240,La Chapelle-sur-Erdre,Pays-de-la-Loire,FR,roussin-ch,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+871,Louise,Pasquier,F,14 La touche allaire,0,56800,Campénéac,,FR,atelierdelouise,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+872,Marianne,Briffaz,F,166 Route de la Bosna,0,74310,Servoz,Auvergne-Rhône-Alpes,FR,mariannebriffaz,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+873,Linh,Albert-Dinh Van,F,Lieu dit Biard 21 rue du coteau,0,16130,Segonzac,,FR,l_adv,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+874,Antoine,Morel,H,34 Rue Serpente,0,75006,Paris 6e Arrondissement,Île-de-France,FR,morelisator,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+875,JULIEN,SITRUK,H,17 Chemin de Grave,0,69450,Saint-Cyr-au-Mont-d'Or,Auvergne-Rhône-Alpes,FR,eliha7,656196.0,ADHÉSION À VIE - Duo,1.0,99.0
+876,Julie,Fuchs,F,5 rue Ernest Duchesne,0,13007,Marseille,Julie Fuchs,FR,iliah,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+877,Anatole,Ansar,H,152 montée des Choseaux,0,74549,Gruffy,,FR,anatole-ansar,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+878,Clarisse,Alem,F,222 avenue de Versailles,0,75016,Paris,,FR,clarisse_a,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+879,Gabriel,Loupiac,H,12 bis rue des acacias,0,31140,Saint Alban,,FR,jibhrail,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+880,aline,rocci,F,27 Avenue de Bonaventure,0,84000,Avignon,Provence-Alpes-Côte d'Azur,FR,maudmacgoudhon,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+881,Marius,Grenouillet,H,23 allée Claude Jade,0,21000,Dijon,,FR,margre94,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+882,Alice,Calemard,F,92 Rue Sadi Carnot,0,27200,Vernon,Normandie,FR,alicecal,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+883,Aïni,Rouiaï-Thomeret,F,Rue Maurice-Braillard 4,0,1202,Genève,Genève,CH,aini-tmrt,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+884,Marc,Lefrancois,H,17 Avenue d'Alesia,0,21150,Venarey-les-Laumes,Bourgogne-Franche-Comté,FR,marclfc,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+885,Aurelie,Cren,F,1 Passage Ramey,0,75018,Paris 18e Arrondissement,Île-de-France,FR,liloucren,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+886,Mélanie,Ducarre,F,12 Rue René et Marguerite Pellet,0,69003,Lyon 3e Arrondissement,Auvergne-Rhône-Alpes,FR,mel-28-0,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+887,Jimmy,SOCQUET-CLERC,H,11 Rue Condorcet,5069,75009,Paris 9e Arrondissement,Île-de-France,FR,jimmy-megeve,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+888,Florence,CLOTIS PUEYO,F,28 Rue des Arts,0,31000,Toulouse,Occitanie,FR,clotis-pueyo,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+889,Tiphaine,Audibert,F,316 Route de Grenade,0,31330,Saint-Cézert,Occitanie,FR,maudmacgoudhon,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+890,Emmanuelle,Galet,F,8 rue des Tertres,Appartement C14,92220,Bagneux,,FR,manuepebble,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+891,Frederic,Pitaval,H,Avenue du Grammont 7,0,1007,Lausanne,Vaud,CH,fredericpitaval,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+892,Aurelie,Texier,F,12 Rue du Rheu,0,35132,Vezin-le-Coquet,Bretagne,FR,a-texier09,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+893,Barthélemy,Godin-Lacaze,F,41 bis Boulevard Voltaire,"Escalier B, Etage 4",75011,Paris 11e Arrondissement,Île-de-France,FR,barth-godin,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+894,Ariane,Barat,F,57 Avenue Paul Vaillant-Couturier,0,94230,Cachan,Île-de-France,FR,arianebarat,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+895,Emilie,Tan,F,130 Rue Saint-Charles,0,75015,Paris 15e Arrondissement,Île-de-France,FR,aboutemi,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+896,Anaïs,Labecot,F,28 Rue de Monpezat,0,64000,Pau,Nouvelle-Aquitaine,FR,anaislabecot,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+897,Claire,Vignaud,F,1660 Route de Mortillet,0,01300,Murs-et-Gélignieux,Auvergne-Rhône-Alpes,FR,claire-vignaud,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+898,Cyril,Hijar,H,11 Rue du Fillaul,0,31130,Pin-Balma,Occitanie,FR,cyrilhijar-0,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+899,Amandine,GALUSZKA,F,52 rue des châtaigniers,0,76430,LA REMUEE,,FR,mandinoubaradoudou,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+900,Veronique,Caboche,F,6 Rue Taillade,0,92700,Colombes,Île-de-France,FR,veronique-cabocheletac,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+901,Marie,Vabre,F,8 bis rue de la coulommière,0,77100,Meaux,Île-de-France,FR,marievabre75,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+902,Frédéric,MALGOR,H,41 lieu-dit RINIAC,0,35270,COMBOURG,,FR,fmalgor,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+903,Nessa,Buonomo,F,144 Avenue des Frères Lumière,0,69008,Lyon,Auvergne-Rhône-Alpes,FR,contact-2265,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+904,Gaëtan,Recly,H,67 Rue de Caumartin,3e étage 303,75009,Paris 9e Arrondissement,Île-de-France,FR,gaetanrecly,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+905,Léa,Ricarde,F,chez Emmanuel Charreyron,0,31000,Toulouse,Occitanie,FR,lelepouet,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+906,Anne-Marie,Kortmoeller,F,2C rte de la Versoix,0,1299,Crans,Vaud,CH,am-kortmoellerk,656197.0,ADHÉSION À VIE - Trio,1.0,149.0
+907,Charles,CHATRON,H,2 Rue Petrus Sambardier,0,69004,Lyon 4e Arrondissement,Auvergne-Rhône-Alpes,FR,charleschatron,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+908,Vincent,Dujardin,F,172 Rue Jean-Baptiste Lebas,Appartement 422,59390,Lys-lez-Lannoy,Hauts-de-France,FR,moussetik,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+909,mathieu,capitan,H,2 b Impasse du Munat,0,42800,Saint-Martin-la-Plaine,Auvergne-Rhône-Alpes,FR,mathieu-capitan,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+910,PAUL,TAICLET,H,BAT 45 C1 ALLEE ADOLPHE NIEL,0,91120,PALAISEAU,,FR,paul-taic,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+911,Gaelle,Buire,F,44 Rue Champ Lagarde,0,78000,Versailles,Île-de-France,FR,gaelle100-0,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+912,Marie-Pierre,Dardouillet,F,26 rue Jeanne,0,33200,Bordeaux,,FR,mp-dardouillet,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+913,Julien,Lesbegueries,H,103 avenue Verdier,App 515,92120,Montrouge,,FR,julienlesbegueries,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+914,Christian,BIANCHI,H,58 Avenue Jean Mermoz,0,69008,Lyon 8e Arrondissement,Auvergne-Rhône-Alpes,FR,bianchichristian,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+915,Marie,Thibout,F,580 Route de Prairy,0,74920,Combloux,Auvergne-Rhône-Alpes,FR,thibout-marie74,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+916,Alexia,Marques,F,6 Rue Victor Duruy,0,75015,Paris 15e Arrondissement,Île-de-France,FR,alexiamqs,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+917,Camille,Boutier,F,17 Rue de Clignancourt,1er étage,75018,Paris 18e Arrondissement,Île-de-France,FR,cam-boutier,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+918,Margot,Maussion,F,752 Route de Montcel,0,73100,Saint-Offenge,Auvergne-Rhône-Alpes,FR,maussion-m,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+919,MARIE,PINSON,F,9 rue Maurice Legendre,0,49480,ST SYLVAIN D ANJOU,,FR,ptitemariep,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+920,,,H,,0,,,,,jdozance,,Don,1.0,50.0
+921,Julie,Kaman,F,25 Allée Haussmann,Appartement 25,33300,Bordeaux,Nouvelle-Aquitaine,FR,juliekaman,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+922,Laetitia,MICHOUX,F,15 ter rue Pierre Brossolette,0,78440,GARGENVILLE,FRANCE,FR,julienylaetitia,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+923,Matthieu,Gillier,H,119 Avenue Baudin,0,87000,Limoges,,FR,mattgillier,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+924,MAUD,quentien,F,25 Impasse Batellerie,0,31790,Saint-Jory,Occitanie,FR,maudmacgoudhon,655971.0,Adhésion à vie - Tarif réduit,3.0,117.0
+925,Pauline,Janeczek,F,103 Avenue Verdier,bat 5 1ère étage appartement 515,92120,Montrouge,Île-de-France,FR,janeczekpauline,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+926,Maurane,ABELARD,F,21 Allée Paul Sabatier,0,31000,Toulouse,Occitanie,FR,maurane-a,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+927,Maryne,Laigle,F,14 grande rue saint nicolas,0,31300,Toulouse,Occitanie,FR,marynele,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+928,Justine,Labonne,F,154 Route de la Gliat,0,74120,Praz-sur-Arly,Auvergne-Rhône-Alpes,FR,justine-labonne,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+929,Thomas,Amoros,H,8 Chemin de l'Atelier,0,69330,Jons,Auvergne-Rhône-Alpes,FR,t-amoros,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+930,Juliette,Amoros,F,5 Rue Joseph Desbois,0,69330,Meyzieu,Auvergne-Rhône-Alpes,FR,hildaamoros,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+931,Hilda,Amoros,F,16 bis Rue de Ferraguet,0,69330,Pusignan,Auvergne-Rhône-Alpes,FR,hildaamoros,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+932,Camille,Renno Thomas,F,7 Rue Diderot,1er étage gauche,06000,Nice,Provence-Alpes-Côte d'Azur,FR,camillerenno,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+933,Alexandre,HENRI MARTIN,H,18 Boulevard Ennemond Richard,0,42400,Saint-Chamond,Auvergne-Rhône-Alpes,FR,kimeernest,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+934,Célia,Lopez,F,71Bis Rue Jean Pierre Timbaud,0,75011,Paris,,FR,celialopez,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+935,William,PHE,H,3 allée Arnaud Beltrame,Bât F2 - RDC,94800,Villejuif,Paris,FR,williamp21,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+936,Lena,Lena KERETLI,F,165 rue de tolbiac,18A14,75013,paris,,FR,lenakeretli,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+937,Heïdi,Mazioux,F,20 Rue Salvador Dali,0,11000,Carcassonne,Occitanie,FR,heidi211,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+938,Julie,Legout,F,2 Rue de la Cave Lagas,0,41100,Villiers-sur-Loir,Centre-Val de Loire,FR,julie-legout,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+939,Diana,Gonçalves,F,37 Avenue du Parc de Craon,0,92380,Garches,Île-de-France,FR,diana-dasilva92,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+940,Guillaume,SIMON,H,85 rue Filliette Nicolas Philibert,0,92500,Rueil Malmaison,,FR,guyome-2,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+941,Roxanne,Blondel,F,5 Rue de la Présentation,Appartement 20,75011,Paris,,FR,lespetitesfrancaisesparis,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+942,Astrid,Framorando,F,11 Rue des Épinettes,0,75017,Paris 17e Arrondissement,Île-de-France,FR,tasdesamis,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+943,Laetitia,Prasit,F,74 Bis Avenue Paul Doumer,0,92500,Rueil-Malmaison,,FR,tititenten,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+944,Mélanie,Tuffereau,F,2 rue tétin savigny,0,97427,Étang salé les bains,,RE,melanituff,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+945,Sophie,Thoulé,F,41 Rue des Noyers,0,93230,Romainville,Île-de-France,FR,sophie-thoule,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+946,thomas,BILLAULT,H,52 Avenue de France,App 135,74000,Annecy,Auvergne-Rhône-Alpes,FR,tombsalvato,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+947,Mathilde,Rigal,F,6 Rue Père André Jarlan,0,91000,Évry,Île-de-France,FR,rigal-m,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+948,Amélie,MOISSET,F,5 RUE CRUCY,APPARTEMENT C12,44000,NANTES,,FR,amelie-moisset,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+949,Julie,Aubin,F,2 Rue de Ploujean,2e étage,29600,Morlaix,Bretagne,FR,julieaubin-2,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+950,Célia,Bideaux,F,4 Rue Aimé Bouchaye,0,65600,Séméac,Occitanie,FR,celia-bideaux,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+951,Pauline,de Bouvet,F,37 Rue Galilée,Interphone: PB,75016,Paris 16e Arrondissement,Île-de-France,FR,paulinedebvt,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+952,Mélissa,Pioc,F,77 Avenue de la République,0,78130,Les Mureaux,Île-de-France,FR,melissa-pioc,655971.0,Adhésion à vie - Tarif réduit,4.0,156.0
+953,Olivia,ALZEARI,F,6 Rue Père André Jarlan,Dernier étage,91000,Évry,Île-de-France,FR,olivia-alzeari,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+954,claire,Barin,F,13 Rue des Champs,0,79270,Frontenay-Rohan-Rohan,Nouvelle-Aquitaine,FR,claire17170,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+955,Emeline,Duquesne,F,"Rue des sapins, 14",0,7603,Bon-Secours,,BE,emyeme,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+956,Anais,Bourret,F,44 Chemin de La muette,0,07100,Annonay,,FR,anaisbourret,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+957,Florine,DREUX,F,6 Place Général Brosset,0,69006,Lyon 6e Arrondissement,Auvergne-Rhône-Alpes,FR,florine-dreux,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+958,Sandra,Grandinetti,F,11 Rue Pache,0,75011,Paris 11e Arrondissement,Île-de-France,FR,grandinetti-sandra,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+959,Benjamin,Donteville,H,74 rue de Patay,0,75013,Paris,,FR,benjamindonteville,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+960,Alexandra,Aussure,F,99 Rue de Charenton,0,75012,Paris 12e Arrondissement,Île-de-France,FR,alexandra_a,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+961,Emilie,Blanc,F,1230 Rue des Teppes,0,71680,Crêches-sur-Saône,Bourgogne-Franche-Comté,FR,boheme-maya,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+962,Elise,Creusot,F,8 Rue du Manège,0,67201,Eckbolsheim,France,FR,elleiiize,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+963,Vivien,Lieber,H,20 Rue Ballainvilliers,0,63000,Clermont-Ferrand,Auvergne-Rhône-Alpes,FR,letsdoitdotca,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+964,Elsa,Saunié,F,11 Rue de la Roubine de Lattes,0,34070,Montpellier,Occitanie,FR,elsasaunie-6648-0,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+965,Virginie,Morel,F,23 Chemin du carton la servagette,Apart 23,73170,Saint-Jean-de-Chevelu,Auvergne-Rhône-Alpes,FR,lezard03,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+966,Prune,Chabert,F,28 Rue Breguet,3ème étage,75011,Paris 11e Arrondissement,Île-de-France,FR,prune-chabert,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+967,Antoine,Scala,H,511 Route de l'Église,0,74370,Fillière,Auvergne-Rhône-Alpes,FR,scala-antoine74,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+968,Sophia,Mathevet,F,Montée du Pavé,0,07690,Vanosc,Auvergne-Rhône-Alpes,FR,sophia-ma,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+969,Julie,Mathevet,F,26 Annadale Crescent,0,D09N6C3,Dublin 9,Dublin,IE,julie-07-m,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+970,Amandine,Cardon,F,46 rue de Vergennes,0,78000,Versailles,,FR,amandine__c,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+971,Alice,HEUSELE,F,16 Francheville,0,77120,Giremoutiers,,FR,croqlavie77,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+972,Marine,GOUMA,F,83 Avenue des Frères Lumière,0,69008,Lyon 8e Arrondissement,Auvergne-Rhône-Alpes,FR,m-gouma-07,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+973,Anne,Thai,F,61 Rue de la Roquette,étage 2,75011,Paris 11e Arrondissement,Île-de-France,FR,anmaythai,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+974,Zoe,Lagarrigur,F,6 Rue Hermel,0,75018,Paris 18e Arrondissement,Île-de-France,FR,zoelagarrigue,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+975,Gabriella,LE Podras,F,62 Route des Briques,0,73420,Méry,Auvergne-Rhône-Alpes,FR,kalmargabi,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+976,Cyndie,MARCOT,F,101 avenue Henri Barbusse,Batiment B,92700,Colombes,,FR,cyndie-marcot,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+977,Florentine,Mangin,F,4 Mail de la Blanchisserie,A32,93500,Pantin,Île-de-France,FR,michel-florentine,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+978,Nassim,Benkirane,H,37 Rue des Sorins,0,93100,Montreuil,Île-de-France,FR,nassim-benkirane,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+979,MARIELLE,SERVANT,F,11 Rue René Villerme,0,75011,Paris 11e Arrondissement,Île-de-France,FR,mservant,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+980,Sabine,Bordeneuve,F,139 bis Avenue de l'Église Romane,0,33370,Artigues-près-Bordeaux,Nouvelle-Aquitaine,FR,sabinebordeneuve,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+981,Emilie,Bouez,F,150 Rue Zenon Façon,0,59146,Pecquencourt,Hauts-de-France,FR,emilie5997o,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+982,Louis,JAMONAC,H,3 Place des Cordeliers,2 étage,07100,Annonay,Auvergne-Rhône-Alpes,FR,jamonac-louis07,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+983,Hanna,GRANDI,F,Rue de Contamines 26,0,1206,Genève,Genève,CH,hannag,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+984,Mathilde,Marti,F,2006 Chemin des Vignes,0,84000,Avignon,Provence-Alpes-Côte d'Azur,FR,mathilde-marti,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+985,,,,,0,,,,,erzbeth,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+986,Enaelle,Guion,F,625 Route de Combalat,0,07340,Félines,Auvergne-Rhône-Alpes,FR,guion-enaelle,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+987,Dominique,SIMONIN,F,2 Rue Pierre Dupont,0,69001,Lyon 1er Arrondissement,Auvergne-Rhône-Alpes,FR,dominique-simonin,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+988,Clémentine,Cruau,F,6 avenue Haroun Tazieff,0,77600,Bussy Saint Georges,,FR,clemi-3,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+989,Mathilde,Ferrera,F,7 Passage du Chantier,0,75012,Paris 12e Arrondissement,Île-de-France,FR,m-ferrera,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+990,Marine,PETILLAT,F,11 Avenue Elisée Reclus,0,75007,Paris 7e Arrondissement,Île-de-France,FR,l-ane-trop-trop,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+991,Rachel,Carpentier,F,30 Rue de la Zorn,0,67270,Schwindratzheim,Grand-Est,FR,xara_ca,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+992,Marion,Czepczor,F,68 rue du président Edouard Herriot,4e étage,69002,Lyon,,FR,czepczor-marion,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+993,Mona,Allard,F,22 Allée de la Charmille,0,77340,Pontault-Combault,Île-de-France,FR,mona-mliki,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+994,Killian,COLON,F,8 Rue Docteur Alfred Richet,A2,21000,Dijon,Bourgogne-Franche-Comté,FR,rogthrasher,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+995,Pascale,Sanchez,F,7 Rue des Gemmeurs,0,40660,Moliets-et-Maa,Nouvelle-Aquitaine,FR,pascalesanchez,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+996,Thibaud,Belvedere,H,6 Rue Roger Brun,0,13006,Marseille 6e Arrondissement,Provence-Alpes-Côte d'Azur,FR,kolikoala,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+997,Fanny,Petit,F,548 chemin de carnasse,0,30150,Sauveterre,,FR,fannytitep,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+998,Manuella,PASQUET-CHARDRON,F,"386, Route du Nant",0,74410,SAINT-JORIOZ,,FR,manuella_pasquet_chardron,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+999,mickael,ayrault,H,82 avenue aliénor d'aquitaine,0,17200,royan,,FR,zhongliquan,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1000,Anne Sophie,Pestrimaux,F,5 Rue d'Héricy,0,76110,Bréauté,Normandie,FR,ansob_85,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1001,Gwenaelle,Raynaud,F,6 impasse le clos ensoleillé,0,66410,Villelongue de la salanque,,FR,g-lachiver,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1002,Wassima,Mouayad,F,30 rue pouchet,0,75017,Paris,,FR,wassimette,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1003,Charlotte,Le Gal,F,155 Rue du Bas Berri,0,79230,Saint-Martin-de-Bernegoue,Nouvelle-Aquitaine,FR,charlottelegal,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1004,Benjamin,Benoliel,H,74 Boulevard Voltaire,0,75011,Paris,Île-de-France,FR,benjaminbenoliel,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1005,Pauline,Catreux,F,Rue de Rennes,8,35550,Lohéac,Bretagne,FR,pauline-cat,663095.0,ADHÉSION À VIE - Prix réduit,1.0,49.0
+1006,Louis,Aubert,H,12 Rue Maurice Grimaud,STARTWAY - TRACKTL,75018,Paris 18e Arrondissement,Île-de-France,FR,louis-aubert4,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1007,Pascaline,Muret,F,10A rue du Chateau,0,59800,Lille,,FR,pascaline-muret,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1008,Héloïse,Delaporte,F,169 Avenue Jean Jaurès,0,59790,Ronchin,Hauts-de-France,FR,heloise-delaporte,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1009,Magali,DUMAS,F,270 Le Mont,0,07290,Satillieu,Auvergne-Rhône-Alpes,FR,dumasmagali,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1010,Felix,Fernandez,H,2 Passage Kracher,0,75018,Paris,Île-de-France,FR,feliske,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1011,Patrick,PERNET,H,27 Rue Pascal,Résidence Pascaline,69100,Villeurbanne,Auvergne-Rhône-Alpes,FR,patrick-pernet,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1012,Lucie,Rose,F,10 Rue du Pré aux Clercs,0,75007,Paris 7e Arrondissement,Île-de-France,FR,lucie-rose,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1013,Elise,Gaspard,F,4154 Route du Quermoz,Le breuil,73600,Hautecour,,FR,gaspardelise16,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1014,Matthieu,Bulgrin,F,Hauptstrasse 23c,0,40668,Meerbusch,,DE,matthieu75003,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1015,Clément,Sage,H,"18, rue Paul Bert",0,69003,Lyon,,FR,clementsage,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1016,Coralie,Latu,F,4 rue Leon de Maleville,0,82000,Montauban,Occitanie,FR,tityco,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1017,Valentine,Rougier,F,48 Rue Bernard Jugault,0,92600,Asnières-sur-Seine,Île-de-France,FR,valentinerougier,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1018,Marie Cécile,Vallet,F,2 Impasse des Charmilles,0,25320,Montferrand-le-Château,Bourgogne-Franche-Comté,FR,vallet-mc,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1019,Nathalie,Many,F,57 route de Corbas,Maison orange ds l’allée à hauteur du 57,69780,Mions,,FR,cleopitchoune,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1020,Tatiana,Bourdais,F,17 rue de la Mulonnais,0,35111,La Fresnais,,FR,tatiana35,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1021,Pauline,Walle,F,12 Rue du Sentier,0,75002,Paris 2e Arrondissement,Île-de-France,FR,paulinewalle,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1022,Guillemette,Aveline,F,Sente des Jardins du Levant,0,27610,Romilly-sur-Andelle,Normandie,FR,guillemette-aveline,663095.0,ADHÉSION À VIE - Prix réduit,1.0,49.0
+1023,Stéphanie,COTINAT,F,13 bis chemin des Aunays,0,37190,Saché,,FR,stephco,663095.0,ADHÉSION À VIE - Prix réduit,1.0,49.0
+1024,Maëva,DOUMBE EYOUM,F,"1, rond-point du 14 juillet 1789",0,95500,GONESSE,,FR,maeva-doumbeeyoum,663095.0,ADHÉSION À VIE - Prix réduit,1.0,49.0
+1025,Lola,MERON,F,830 Route des Crêts,0,74540,CUSY,,FR,lolameron,663095.0,ADHÉSION À VIE - Prix réduit,1.0,49.0
+1026,Elodie,DEVILLERS,F,2 Rue Jean Nicot,1er étage porte de droite,77170,Brie-Comte-Robert,Île-de-France,FR,elodie-devillers17,663095.0,ADHÉSION À VIE - Prix réduit,1.0,49.0
+1027,Natacha,STYCZEN,F,64 avenue gambetta,Appartement L,77140,Nemours,,FR,djidany,663095.0,ADHÉSION À VIE - Prix réduit,1.0,49.0
+1028,Camille,Duchateau,F,Admiraal de Ruijterweg,438 - 3,1055NE,Amsterdam,Noord-Holland,NL,duchateaucamille9,663095.0,ADHÉSION À VIE - Prix réduit,1.0,49.0
+1029,Mathilde,Laidin,F,96 Rue de la Part-Dieu,0,69003,Lyon,Auvergne-Rhône-Alpes,FR,m_laidin,663095.0,ADHÉSION À VIE - Prix réduit,1.0,49.0
+1030,Adèle,Cabrol,F,17 Place du Maucaillou,0,33000,Bordeaux,Nouvelle-Aquitaine,FR,adele-cabrol-d,663095.0,ADHÉSION À VIE - Prix réduit,1.0,49.0
+1031,Daniel,Berard,H,Route de la Coste,0,07340,Peaugres,Auvergne-Rhône-Alpes,FR,daniel-berard,663097.0,ADHÉSION À VIE - Prix normal,1.0,79.0
+1032,Marie,Charnot,F,40 Avenue de la Gare,Bat C app 25,74500,Évian-les-Bains,Auvergne-Rhône-Alpes,FR,macha008,663095.0,ADHÉSION À VIE - Prix réduit,1.0,49.0
+1033,Mélanie,Montet,F,146 rue Giraud Badin,0,38290,La Verpillere,,FR,melanieamet,663095.0,ADHÉSION À VIE - Prix réduit,1.0,49.0
+1034,Marie,BONNETON,F,18 rue Léon Fabre,0,69100,VILLEURBANNE,Rhone-Alpes,FR,ladybluemary,663095.0,ADHÉSION À VIE - Prix réduit,1.0,49.0
+1035,Stéphanie,Sanchez Incera,F,289 rue Lecourbe,0,75015,paris,,FR,stephanota,663095.0,ADHÉSION À VIE - Prix réduit,1.0,49.0
+1036,Delphine,Seguin,F,21 Rue du Comte de Tourville,0,49100,Angers,Pays-de-la-Loire,FR,1delphineseguin,663095.0,ADHÉSION À VIE - Prix réduit,1.0,49.0
+1037,Remy,Valentino,H,68 Rue du Repos,0,69007,Lyon 7e Arrondissement,Auvergne-Rhône-Alpes,FR,remy-valentino07,663095.0,ADHÉSION À VIE - Prix réduit,1.0,49.0
+1038,Victoire,Estager,F,12 Rue Henner,0,75009,Paris 9e Arrondissement,Île-de-France,FR,victoire-estager,663095.0,ADHÉSION À VIE - Prix réduit,1.0,49.0
+1039,Delphine,Joly,F,7 Rue Marcel Renault,0,75017,Paris 17e Arrondissement,Île-de-France,FR,dcjoly,663095.0,ADHÉSION À VIE - Prix réduit,1.0,49.0
+1040,Ella,NAMAN,F,61 Allée des Merisiers,0,74120,Demi-Quartier,Auvergne-Rhône-Alpes,FR,o0oellao0o,663095.0,ADHÉSION À VIE - Prix réduit,1.0,49.0
+1041,Marie,METAIS,F,123 Avenue Saint-Hermentaire,0,83300,Draguignan,Provence-Alpes-Côte d'Azur,FR,metaismarie,663095.0,ADHÉSION À VIE - Prix réduit,1.0,49.0
+1042,Jean-Luc,Planchenot,H,4 Rue de Diarupt,0,88520,Wisembach,Grand-Est,FR,planchenot,663095.0,ADHÉSION À VIE - Prix réduit,1.0,49.0
+1043,Jean-Luc,Planchenot,,4 Rue de Diarupt,0,88520,Wisembach,Grand-Est,FR,planchenot,,Don,1.0,1.0
+1044,Robin,Trabut,H,1 chemin des Violettes,0,83136,Garéoult,,FR,robbinprez,663095.0,ADHÉSION À VIE - Prix réduit,1.0,49.0
+1045,Florentine,Masse,F,13 Rue Berthe Morisot,0,69008,Lyon 8e Arrondissement,Auvergne-Rhône-Alpes,FR,florentine-masse,663095.0,ADHÉSION À VIE - Prix réduit,1.0,49.0
+1046,Fabienne,Philippe,F,12 Rue de la Barrière,0,22800,Quintin,Bretagne,FR,fabiennephilippe2280,663095.0,ADHÉSION À VIE - Prix réduit,1.0,49.0
+1047,Chloé,Mouret,F,27 avenue daniel mercier,0,07100,ANNONAY,,FR,mrt-chloe,663095.0,ADHÉSION À VIE - Prix réduit,1.0,49.0
+1048,Anne-Charlotte,Jean,F,921 rue des Assomptionnistes,0,07430,Davezieux,,FR,jeanannecharlotte,663095.0,ADHÉSION À VIE - Prix réduit,1.0,49.0
+1049,Danielle,Colla,F,48 Avenue de Savoie,0,06000,Nice,Provence-Alpes-Côte d'Azur,FR,daniellecolla,663095.0,ADHÉSION À VIE - Prix réduit,1.0,49.0
+1050,Helena,Badaoui,F,47 Rue Barrault,0,75013,Paris 13e Arrondissement,Île-de-France,FR,helenabadaoui,663095.0,ADHÉSION À VIE - Prix réduit,1.0,49.0
+1051,Dominique,Boulanger,F,Rue du Bochu,0,69340,Francheville,Auvergne-Rhône-Alpes,FR,dianepsycho,663095.0,ADHÉSION À VIE - Prix réduit,1.0,49.0
+1052,Camille,Januel,F,132 Boulevard de Charonne,0,75011,Paris 11e Arrondissement,Île-de-France,FR,camille-januel07,663095.0,ADHÉSION À VIE - Prix réduit,1.0,49.0
+1053,Elodie,Borcier,F,15 chemin de ty ruz,15 chemin de ty ruz,29840,Porspoder,,FR,elodie-borcier,663095.0,ADHÉSION À VIE - Prix réduit,1.0,49.0
+1054,Elodie,Schupfer,F,103 Route de Schirmeck,0,67200,Strasbourg,Grand-Est,FR,schupfer0elodie,663095.0,ADHÉSION À VIE - Prix réduit,1.0,49.0
+1055,Elodie,Borcier,F,15 chemin de ty ruz,15 chemin de ty ruz,29840,Porspoder,,FR,elodie-borcier,657937.0,Adhésion à vie - Tarif normal,1.0,79.0
+1056,val,AGUNAOU,,65 Avenue de Rochetaillée,le Montréal,42100,Saint-Étienne,Auvergne-Rhône-Alpes,FR,fifival-0,663095.0,ADHÉSION À VIE - Prix réduit,1.0,49.0
+1057,Lucie,POUTREL,F,7 rue Poulbot,0,75018,Paris,,FR,lucie-poupard,663095.0,ADHÉSION À VIE - Prix réduit,1.0,49.0
+1058,Marine,Pannaud Deniau,,31 rue de bourgogne,0,75007,Paris,Nouvelle-Aquitaine,FR,marine-pannaud,663095.0,ADHÉSION À VIE - Prix réduit,1.0,49.0
+1059,Patryk,Bazinski,H,55 Quai d'Orsay,0,75007,Paris 7e Arrondissement,Île-de-France,FR,bazinski-patryk,663095.0,ADHÉSION À VIE - Prix réduit,1.0,49.0
+1060,Mathilde,Delhomme,F,2 mail Hélène Brion,0,93500,Pantin,State / Province,FR,kumikum,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1061,Barbara,Guyomard,F,16 rue de la pierre blanche,0,35135,Chantepie,,FR,barbara-guyomard,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1062,Alicia,COSCULLUELA,F,1456 route d’Annonay,0,07430,VERNOSC LES ANNONAY,Rhône Alpes,FR,aliciacosculluela,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1063,Margaux,Schmit,F,35 bis Rue de Reuilly,Code 1512,75012,Paris 12e Arrondissement,Île-de-France,FR,superbemargaux,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1064,Marie,Groualle,F,67 Rue Marguerite de Rochechouart,"BAT A, 1er etage",75009,PARIS 09,,FR,mariegroualle,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1065,Valentine,Cinier,F,18 Avenue d'Ossuna,2e étage,64200,Biarritz,Nouvelle-Aquitaine,FR,le-guide-papier,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1066,Hugo,Lemonnier,H,2 rue donatello,0,77330,Ozoir-la-Ferrière,Île-de-France,FR,hugolemonnier77330,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1067,DIANE,BERLUCCHI,F,39 ter Rue de Marseille,3eme etage,69007,Lyon 7e Arrondissement,Auvergne-Rhône-Alpes,FR,dianepsycho,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1068,Stéphanie,DUFRESNE STOVER,F,2 Rue Mirabeau,0,13410,Lambesc,,FR,chtephpoupi,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1069,Claire,Munsch,F,16 Rue Bonbonnière,0,68440,Eschentzwiller,Grand-Est,FR,claire-trz,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1070,garance,leroux,F,Code 18B33 + interphone Garance Leroux + 4e étage fond gauche,0,75013,Paris 13ème,France,FR,garance_leroux,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1071,Adrien,Ollivier,H,138 Route de Draguignan,0,06130,Grasse,Provence-Alpes-Côte d'Azur,FR,adrien-ollivier,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1072,Julie,CHOVET,F,17 rue Henri Barbusse,0776757429 interphone HS,42000,Saint-Étienne,,FR,julaikov,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1073,Rouba,ABI MOUSSA FADDOUL,F,13 Rue Amelot,Bp 17,75011,Paris 11e Arrondissement,Île-de-France,FR,rouba-faddoul,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1074,Catherine,Lahille,F,10 impasse Claude Monet,0,69530,Brignais,,FR,cacl,655971.0,Adhésion à vie - Tarif réduit,3.0,117.0
+1075,Louise,Ballongue,F,1 Rue Bosio,0,75016,Paris 16e Arrondissement,Île-de-France,FR,ballongue-louise,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1076,Sidonie,Segers,F,6 Avenue Ferdinand Janvier,"Résidence Bel Air, Bat F2",07100,Annonay,Auvergne-Rhône-Alpes,FR,sidosegers,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1077,LEVRAT,ADRIEN,H,14 Rue Gilles Durant,0,63000,Clermont-Ferrand,Auvergne-Rhône-Alpes,FR,adri_lvrt,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1078,Laetitia,GREGOIRE,F,10 rue Edouard Picard,0,95270,Asnieres sur oise,,FR,ltidenfer,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1079,Matthias,Briffaz,H,166 Route de la Bosna,0,74310,Servoz,Auvergne-Rhône-Alpes,FR,matthiasbriffaz,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1080,Nelly,Amara,F,12 Rue René Dumont,0,44400,Rezé,Pays-de-la-Loire,FR,nelly-amara,657937.0,Adhésion à vie - Tarif normal,1.0,79.0
+1081,Kelly,MOITIÉ,F,18 rue Paul Baroux,0,80330,Longueau,,FR,greenkym,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1082,Anne-Emmanuelle,Magdelain,F,2bis place Bienvenue,0,75015,Paris,,FR,anne-emmanuelle,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1083,Vina,Sarnirand,F,2 Rue de la Maladrerie,0,51470,Saint-Memmie,Grand-Est,FR,vidubes,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1084,Youna,Bigoni,F,13 Lotissement le Clos Mireio,0,13103,Saint-Étienne-du-Grès,Provence-Alpes-Côte d'Azur,FR,younabigoni,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1085,Annika,Schlüter,F,68 rue Arago,0,93400,Saint Ouen,,FR,annika,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1086,Sakina,Buifruri,F,Boulevard Emile Bockstael 304A,bte 14,1020,Laeken (Bruxelles),Belgique,BE,kaya-quetzal,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1087,Cécile,HUMEAU,F,14 RUE CHARLES TRENET,BEAUPREAU,49600,BEAUPREAU EN MAUGES,,FR,maelucie-2,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1088,Anne,Wonner,F,122 Rue Amelot,Kandbaz,75011,Paris 11e Arrondissement,Île-de-France,FR,anne-527,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1089,Léopold,MICHEL,H,59 Rue Pierre de Coubertin,0,07100,Annonay,Auvergne-Rhône-Alpes,FR,leopold-michel07,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1090,Adriana,Bodrug,F,5 Rue Burnouf,0,75019,Paris 19e Arrondissement,Île-de-France,FR,adrianabodrug,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1091,Kristina,Raptovaya,F,5 Rue Burnouf,0,75019,Paris 19e Arrondissement,Île-de-France,FR,kristinaraptovaya,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1092,Thiara,gigniac,F,49 rue Gustave Fernand Plos,0,33260,Cazaux,,FR,nitoune,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1093,COLUCCI,ANGELO,H,11 Chemin de Maret,0,07100,Annonay,Auvergne-Rhône-Alpes,FR,colucci-bellaitalia,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1094,Frédérique,Loyer,F,71 a Avenue du Prado,0,13006,Marseille 6e Arrondissement,Provence-Alpes-Côte d'Azur,FR,fred-loyer,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1095,Patrice,Riquelme,H,6 Boulevard de la République,0,07100,Annonay,Auvergne-Rhône-Alpes,FR,riquelme-patrice,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1096,Melodie,Darras,F,17 rue de la camelle,0,13129,Salin de giraud,,FR,cmfd,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1097,Caroline,Tanguy,F,4 impasse du mistral,0,34430,ST JEAN DE VEDAS,,FR,bisig,657937.0,Adhésion à vie - Tarif normal,1.0,79.0
+1098,Laura,SANCHEZ PRADA,F,17 Rue de Berne,0,75008,Paris 8e Arrondissement,Île-de-France,FR,lala_kld00,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1099,Nicolas,Gatineau,H,34 Rue du Bas Coudray,0,91100,Corbeil-Essonnes,Île-de-France,FR,nicolas-gatineau,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1100,Robin,Dumas,H,3 rue Marceline desbordes valmore,Bâtiment urban park - appartement A604,38100,Grenoble,,FR,robin-dumas,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1101,Nidavan,NGUYEN,F,24 Chemin de la Bottière,0,69650,Quincieux,Auvergne-Rhône-Alpes,FR,nida80,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1102,Marie-Laure,Bourgeois,F,Prajou,0,29620,Guimaëc,Bretagne,FR,aureliacha,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1103,Stéphany,Bessone,F,73 ch de la clue,Villa 52,13011,Marseille,,FR,lebazardenany,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1104,Françoise,EMY,F,Résidence SOL - A41 - 16 rue des Cachous,0,34070,MONTPELLIER,,FR,fr-emy,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1105,Adrien,Braha-Lonchant,H,158 Route de la Croze,0,07100,Roiffieux,Auvergne-Rhône-Alpes,FR,braha-adrien,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1106,Lucie,Balihaut,F,8 Rue du Moulin des Prés,RDC droit,75013,Paris 13e Arrondissement,Île-de-France,FR,orlyjkador,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1107,Valentine,Dorel,F,16 Quai du Rhône,0,38550,Sablons,Auvergne-Rhône-Alpes,FR,valentinedorel38,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1108,Justine,Guillomet,F,14 Square Docteur Guérin,0,35000,Rennes,Bretagne,FR,juju-gllmt,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1109,Marie-Anne,Joly,F,3 cours d'Herbouville,0,69004,Lyon,,FR,marie-anne-joly,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1110,Batiste,Lachaud,H,89 rue Pierre de Coubertin,0,07100,Annonay,,FR,batistelachaud,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1111,pauline,cabrol,F,41 rue du simplon,41 rue du simplon,75018,paris,,FR,paulinecabrold,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1112,Audrey,Gallier,F,9 rue du chateau,0,91370,Verrières-le-Buisson,,FR,audreygll,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1113,Odeline,Bilhoto Nogueira,F,19 ter Avenue Adam Grange,0,12110,Viviez,Occitanie,FR,odeline-bn,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1114,Orane,Bayard,F,26 Rue de Longpuy,0,63140,Châtel-Guyon,Auvergne-Rhône-Alpes,FR,orane-bayard,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1115,Marie,Schweitzer,F,Caminho das courelas 32,Quinta dos tres magos,2705-460,Assafora,Lisboa,PT,marie01002,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1116,Lorna,MOQUET,F,8 Rue Francis Carco,0,75018,Paris 18e Arrondissement,Île-de-France,FR,lornamoquet,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1117,Delphine,Jamain,F,98 Rue Nollet,0,75017,Paris 17e Arrondissement,Île-de-France,FR,delphine-jamain,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1118,Bérénice,JARRY,F,30 Rue Armand Saffray,0,72000,Le Mans,Pays-de-la-Loire,FR,berenicejarry,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1119,Anna,Marques,F,25 Trefoux,0,44290,Guemene Penfao,,FR,leii,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1120,Amélie,Simard,F,6 Rue des Bordeaux,BAL : MARCIANO,94220,Charenton-le-Pont,Île-de-France,FR,amelie-smd,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1121,Huguette,Valada,F,1053 Chemin les Hauts du Lançon,0,83110,Sanary-sur-Mer,Provence-Alpes-Côte d'Azur,FR,huguette-valada,656196.0,ADHÉSION À VIE - Duo,1.0,99.0
+1122,Margot,Lepape,F,75 Rue d'Auteuil,0,44700,Orvault,Pays-de-la-Loire,FR,margot-lepape,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1123,Maëla,Telchid,F,32 Rue Datas,2 ème étage,03000,Moulins,Auvergne-Rhône-Alpes,FR,ma-telchid,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1124,Gwenaelle,Barbato,F,La Bruche,0,07430,Savas,Auvergne-Rhône-Alpes,FR,gwenaelle-fauconnet,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1125,Valérie,CHAMPOUX,F,10 Rue de la Boétie,0,91540,Mennecy,Île-de-France,FR,valeriechampoux,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1126,Audrey,Boibessot,F,1 Boulevard des Tourelles,0,09270,Mazères,Occitanie,FR,audreyherve2011,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1127,Valérie,COLLOT,F,51 lotissement les boutons d'or,Route de la remise,07340,FELINES,,FR,valriecollot,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1128,Pierre-xavier,JEAN,H,921 Rue des Assomptionnistes,0,07430,Davézieux,Auvergne-Rhône-Alpes,FR,pedrojjjuan69,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1129,Caroline,Simone Garel,F,985 Chemin de Chantelouve,0,26300,Alixan,Auvergne-Rhône-Alpes,FR,caroline-simone,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1130,Kary,Barbe,F,32 Rue Sadi Carnot,0,07100,Annonay,Auvergne-Rhône-Alpes,FR,barbeskaya,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1131,Caroline,LEPOINT,F,58 rue Marcel Cerdan,0,07500,Guilherand-Granges,Rhône-Alpes,FR,camoon,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1132,Manon,CHARRIEAU,F,23 chemin du grand roc fer,0,86280,St benoit,,FR,manon-charrieau,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1133,Audrey,PREVOST,F,6 Allée Marcel Granier,0,37360,Beaumont-Louestault,Centre-Val de Loire,FR,audreyprevost37,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1134,Bertille,Vidor,F,21 bis Rue d'Armaillé,0,75017,Paris 17e Arrondissement,Île-de-France,FR,berthachrbn,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1135,James,Dunner,H,11 Rue René Villerme,0,75011,Paris 11e Arrondissement,Île-de-France,FR,james-dunner01,657937.0,Adhésion à vie - Tarif normal,1.0,79.0
+1136,Marion,Figuette,F,8 rue Gustave Rouanet,Chez Koryakyn,75018,Paris,Île-de-France,FR,marionfigue,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1137,Bénédicte,Roche,F,40 Rue des Martres de Madargues,0,63200,Riom,Auvergne-Rhône-Alpes,FR,roche-benedicte,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1138,Caroline,Panel,F,48 Chemin du Ruisseau,0,42520,Roisey,Auvergne-Rhône-Alpes,FR,panel-caroline,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1139,Caroline,Panel,,48 Chemin du Ruisseau,0,42520,Roisey,Auvergne-Rhône-Alpes,FR,panel-caroline,,Don,1.0,11.0
+1140,Romane,Hay,F,4 L'Audairie,0,79300,Bressuire,Nouvelle-Aquitaine,FR,romane-19,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1141,Anaïs,Amara,F,8 Rue des Fosses,0,79300,Bressuire,Nouvelle-Aquitaine,FR,anais-amara,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1142,Fanny,Bruas,F,95 Impasse du Four,0,38500,Saint-Nicolas-de-Macherin,Auvergne-Rhône-Alpes,FR,fanny-bruas,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1143,Nour,El Soufi,F,44 Rue du Texel,0,75014,Paris 14e Arrondissement,Île-de-France,FR,nour-elsoufi,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1144,Allan,Boudeau,F,24 Rue de la Douma,0,49000,Angers,Pays-de-la-Loire,FR,acboudeau,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1145,Léonie,Dozance,F,42 Avenue du Président Kennedy,0,75016,Paris 16e Arrondissement,Île-de-France,FR,leoniedozance,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1146,Sarah,Atlan,F,2  chemin de la tanche,0,31600,Muret,Occitanie,FR,norahssshop,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1147,Alizee,Petitgas,F,5 Mail Pierre Mendes-France,"Résidence St John’s, Bât. B, appt. 24",33600,Pessac,Nouvelle-Aquitaine,FR,alizee-petitgas,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1148,Maïlys,Lemasson,F,55 avenue de Champagne,Le clos de La Chapelle Bat C,74200,Thonon-les-Bains,,FR,malyslemasson,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1149,Mathilde,Lagarrigue,F,3 Passage de Lagny,0,75020,Paris 20e Arrondissement,Île-de-France,FR,mathildelagarrigue,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1150,Natalie,Bechetoille,F,80 Allée de Beauregard,0,07100,Annonay,Auvergne-Rhône-Alpes,FR,natbechetoille,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1151,Ilfynn,LAGARDE,F,10 boulevard de clichy,0,75018,Paris,,FR,ilflag,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1152,Maniline,SAYARATH,F,5 Rue François de Neufchâteau,6e étage,75011,Paris 11e Arrondissement,Île-de-France,FR,sayarathmaniline,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1153,Théodora,Faure,F,8 Place Saint-Vincent,0,69001,Lyon 1er Arrondissement,Auvergne-Rhône-Alpes,FR,theodora-faure,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1154,Romane,Thibout,F,7 Rue des Remparts d'Ainay,0,69002,Lyon 2e Arrondissement,Auvergne-Rhône-Alpes,FR,romane-thibout,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1155,Isabelle,Valada,F,Le Bordage,0,44450,Divatte-sur-Loire,Pays-de-la-Loire,FR,i-valada,656194.0,ADHÉSION À VIE  À -35% 🥳 Prix de lancement,1.0,49.0
+1156,Laurence,Emy,F,113 Pailleras,0,07430,Davézieux,Auvergne-Rhône-Alpes,FR,laurence-emy,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1157,Maya,Mathieu,F,18 Rue du Simplon,0,75018,Paris 18e Arrondissement,Île-de-France,FR,maya-mathieu,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1158,Alix,Lecocq,F,28 rue du Simplon,0,75018,Paris,,FR,alixlecocq,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1159,Barbara,Attal,F,20 Place des Cordeliers,0,07100,Annonay,Auvergne-Rhône-Alpes,FR,attal-noel,657937.0,Adhésion à vie - Tarif normal,1.0,79.0
+1160,Thibault,Copleux,H,2 Rue de la Roseraie,0,73410,Entrelacs,Auvergne-Rhône-Alpes,FR,how05,657937.0,Adhésion à vie - Tarif normal,1.0,79.0
+1161,Florent,EMY,H,113 Pailleras,0,07430,Davézieux,Auvergne-Rhône-Alpes,FR,florent-emy,656199.0,ADHÉSION À VIE - Share the love !,1.0,349.0
+1162,Barbara,Attal,F,20 Place des Cordeliers,0,07100,Annonay,Auvergne-Rhône-Alpes,FR,attal-noel,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1163,Jamie,Attal,F,600 Route du Grand Mûrier,0,07100,Boulieu-lès-Annonay,Auvergne-Rhône-Alpes,FR,attaljamie,657937.0,Adhésion à vie - Tarif normal,1.0,79.0
+1164,Floriane,Emy,F,42 Rue du Président Édouard Herriot,4eme etage,69002,Lyon 2e Arrondissement,Auvergne-Rhône-Alpes,FR,floriane-emy,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1165,Marina,Rodrigues,F,291 Route d'Arnand,0,74210,Doussard,Auvergne-Rhône-Alpes,FR,marina-espiller,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
+1166,Aude,DIOP,F,2 Rue Adjudant Chef Clapot,0,40000,Mont-de-Marsan,Nouvelle-Aquitaine,FR,aude-joannisdiop,655971.0,Adhésion à vie - Tarif réduit,1.0,39.0
