@@ -57,7 +57,7 @@ To accomplish our task, we used the following dataset :
 
 Users are mostly women and the audience is principally women between the age of 24 and 35 years old.
 
-<img src="https://github.com/BrunaClo/Refyld/blob/main/Images/users_gender.png" height="263" width="477"/> <img src="https://github.com/BrunaClo/Refyld/blob/main/Images/Crosstab_GAC.png" height=263 width="477"/>
+<img src="https://github.com/BrunaClo/Refyld/blob/main/Images/users_gender.png" height="263" width="477"/> <img src="https://github.com/BrunaClo/Refyld/blob/main/Images/Crosstab_GAC.png" height=270 width="477"/>
 
 
 ## Links
