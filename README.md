@@ -30,7 +30,7 @@ Our task was to conduct a leads analysis to find some insights about their clien
  - Dashboard Development 
 
 ### Challenges :
-The main hindrance in this project was the time constraints. One week to retrieve, gather, clean, and analyze the data. With multiple sources of data, we spent a significant amount of time selecting and collecting the information that would be useful. The development of the [dashboard](https://github.com/BrunaClo/Refyld/blob/main/refyld.py) was not possible in this delay, however, it's under construction.
+The main hindrance in this project was the time constraints. One week to retrieve, gather, clean, and analyze the data. With multiple sources of data, we spent a significant amount of time selecting and collecting the information that would be useful. The development of the [dashboard](https://github.com/BrunaClo/Refyld/blob/main/refyld.py) was not possible for the presentation, however, it's under construction.
 
 ## The Dataset
 
